@@ -6,7 +6,7 @@ import lombok.Data;
 @Data
 public class Firestation {
 	@JsonProperty("address")
-	private String address;
+	public String address;
 	
 	@JsonProperty("station")
     private String station;

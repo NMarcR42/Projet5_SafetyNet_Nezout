@@ -73,4 +73,31 @@ public class FirestationService {
         LocalDate birth = LocalDate.parse(birthdate, formatter);
         return Period.between(birth, LocalDate.now()).getYears() <= 18;
     }
+    
+    // Ajouter un mapping caserne/adresse
+    public void addFirestation(Firestation firestation) {
+        List<Firestation> firestations = dataService.getDataBean().getFirestations();
+        firestations.add(firestation);
+    }
+
+    // Mettre à jour le numéro de la caserne pour une adresse donnée
+    public boolean updateFirestation(String address, String newStationNumber) {
+        List<Firestation> firestations = dataService.getDataBean().getFirestations();
+        for (Firestation f : firestations) {
+            if (f.getAddress().equalsIgnoreCase(address)) {
+                f.setStation(newStationNumber);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    // Supprimer un mapping par adresse ou station
+    public boolean deleteFirestation(String address, String stationNumber) {
+        List<Firestation> firestations = dataService.getDataBean().getFirestations();
+        return firestations.removeIf(f -> 
+            (address != null && f.getAddress().equalsIgnoreCase(address)) ||
+            (stationNumber != null && f.getStation().equalsIgnoreCase(stationNumber))
+        );
+    }
 }

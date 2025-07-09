@@ -1,37 +1,24 @@
-package com.projet5safetynet.safetynet.model;
+package com.projet5safetynet.safetynet.dto;
 
 import java.util.List;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-import lombok.Data;
-
-@Data
-public class MedicalRecord {
-	@JsonProperty("firstName")
-    private String firstName;
-	
-	@JsonProperty("lastName")
+public class FloodResidentDTO {
+	private String firstName;
     private String lastName;
-	
-	@JsonProperty("birthdate")
-    private String birthdate;
-	
-	@JsonProperty("medications")
+    private int age;
+    private String phone;
     private List<String> medications;
-	
-	@JsonProperty("allergies")
+    //private List<String> posologie;
     private List<String> allergies;
-	
-	public MedicalRecord(String firstName, String lastName, String birthdate, List<String> medications, List<String> allergies) {
+    
+	public FloodResidentDTO(String firstName, String lastName, int age, String phone, List<String> medications, List<String> allergies) {
 		this.firstName = firstName;
 		this.lastName = lastName;
-		this.birthdate = birthdate;
+		this.age = age;
+		this.phone = phone;
 		this.medications = medications;
 		this.allergies = allergies;
 	}
-	// Constructeur sans arguments (obligatoire pour Jackson)
-	public MedicalRecord() {
-    }
 
 	public String getFirstName() {
 		return firstName;
@@ -49,12 +36,20 @@ public class MedicalRecord {
 		this.lastName = lastName;
 	}
 
-	public String getBirthdate() {
-		return birthdate;
+	public int getAge() {
+		return age;
 	}
 
-	public void setBirthdate(String birthdate) {
-		this.birthdate = birthdate;
+	public void setAge(int age) {
+		this.age = age;
+	}
+
+	public String getPhone() {
+		return phone;
+	}
+
+	public void setPhone(String phone) {
+		this.phone = phone;
 	}
 
 	public List<String> getMedications() {
@@ -72,4 +67,6 @@ public class MedicalRecord {
 	public void setAllergies(List<String> allergies) {
 		this.allergies = allergies;
 	}
+    
+    
 }

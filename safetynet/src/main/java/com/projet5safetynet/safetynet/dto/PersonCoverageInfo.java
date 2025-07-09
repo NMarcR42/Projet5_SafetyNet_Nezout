@@ -1,10 +1,8 @@
 package com.projet5safetynet.safetynet.dto;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
 
-@Data
-@AllArgsConstructor
+
+
 //DTO simplifié pour exposer uniquement les infos utiles dans /firestation
 public class PersonCoverageInfo {
 	private String firstName;

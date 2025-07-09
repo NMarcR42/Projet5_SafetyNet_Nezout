@@ -1,37 +1,25 @@
-package com.projet5safetynet.safetynet.model;
+package com.projet5safetynet.safetynet.dto;
 
 import java.util.List;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-import lombok.Data;
-
-@Data
-public class MedicalRecord {
-	@JsonProperty("firstName")
-    private String firstName;
-	
-	@JsonProperty("lastName")
+public class PersonInfoLastNameDTO {
+	private String firstName;
     private String lastName;
-	
-	@JsonProperty("birthdate")
-    private String birthdate;
-	
-	@JsonProperty("medications")
+    private String address;
+    private int age;
+    private String email;
     private List<String> medications;
-	
-	@JsonProperty("allergies")
     private List<String> allergies;
-	
-	public MedicalRecord(String firstName, String lastName, String birthdate, List<String> medications, List<String> allergies) {
+    
+	public PersonInfoLastNameDTO(String firstName, String lastName, String address, int age, String email, List<String> medications, List<String> allergies) {
 		this.firstName = firstName;
 		this.lastName = lastName;
-		this.birthdate = birthdate;
+		this.address = address;
+		this.age = age;
+		this.email = email;
 		this.medications = medications;
 		this.allergies = allergies;
 	}
-	// Constructeur sans arguments (obligatoire pour Jackson)
-	public MedicalRecord() {
-    }
 
 	public String getFirstName() {
 		return firstName;
@@ -49,12 +37,28 @@ public class MedicalRecord {
 		this.lastName = lastName;
 	}
 
-	public String getBirthdate() {
-		return birthdate;
+	public String getAddress() {
+		return address;
 	}
 
-	public void setBirthdate(String birthdate) {
-		this.birthdate = birthdate;
+	public void setAddress(String address) {
+		this.address = address;
+	}
+
+	public int getAge() {
+		return age;
+	}
+
+	public void setAge(int age) {
+		this.age = age;
+	}
+
+	public String getEmail() {
+		return email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
 	}
 
 	public List<String> getMedications() {
@@ -72,4 +76,6 @@ public class MedicalRecord {
 	public void setAllergies(List<String> allergies) {
 		this.allergies = allergies;
 	}
+    
+    
 }
