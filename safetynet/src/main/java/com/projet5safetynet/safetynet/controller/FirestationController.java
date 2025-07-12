@@ -29,13 +29,14 @@ public class FirestationController {
     @Autowired
     private FirestationService firestationService;
     
-    // Route : GET /firestation
     @GetMapping("/all")
     public List<Firestation> getAllFirestations() {
-        return firestationService.getAllFirestations();
+        logger.info("Requête reçue GET /firestation/all");
+        List<Firestation> firestations = firestationService.getAllFirestations();
+        logger.info("Réponse : {} firestation(s) trouvée(s)", firestations.size());
+        return firestations;
     }
 
-    // Route : GET /firestation?stationNumber=X
     @GetMapping
     public FirestationCoverageDTO getCoverage(@RequestParam String stationNumber) {
         logger.info("Requête GET /firestation?stationNumber={} reçue", stationNumber);
@@ -47,26 +48,34 @@ public class FirestationController {
     
     @PostMapping
     public ResponseEntity<String> addFirestationMapping(@RequestBody Firestation firestation) {
+        logger.info("Requête POST /firestation avec payload: {}", firestation);
         firestationService.addFirestation(firestation);
+        logger.info("Mapping ajouté pour l'adresse: {}", firestation.getAddress());
         return ResponseEntity.status(HttpStatus.CREATED).body("Mapping added");
     }
 
     @PutMapping
     public ResponseEntity<String> updateFirestationMapping(@RequestBody Firestation firestation) {
-    	boolean updated = firestationService.updateFirestation(firestation.getAddress(),firestation.getStation());
+        logger.info("Requête PUT /firestation avec payload: {}", firestation);
+        boolean updated = firestationService.updateFirestation(firestation.getAddress(), firestation.getStation());
         if (updated) {
+            logger.info("Mapping mis à jour pour l'adresse: {}", firestation.getAddress());
             return ResponseEntity.ok("Mapping updated");
         } else {
+            logger.warn("Mapping non trouvé pour l'adresse: {}", firestation.getAddress());
             return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Mapping not found");
         }
     }
 
     @DeleteMapping
-    public ResponseEntity<String> deleteFirestationMapping(@RequestParam String address, @RequestParam(required=false) String stationNumber) {
+    public ResponseEntity<String> deleteFirestationMapping(@RequestParam String address, @RequestParam(required = false) String stationNumber) {
+        logger.info("Requête DELETE /firestation avec address={} et stationNumber={}", address, stationNumber);
         boolean deleted = firestationService.deleteFirestation(address, stationNumber);
         if (deleted) {
+            logger.info("Mapping supprimé pour l'adresse: {}", address);
             return ResponseEntity.ok("Mapping deleted");
         } else {
+            logger.warn("Mapping non trouvé pour suppression, adresse: {}", address);
             return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Mapping not found");
         }
     }

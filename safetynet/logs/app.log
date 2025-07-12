@@ -1,0 +1,1026 @@
+[2025-07-12 11:56:54] INFO  ChildAlertServiceTest:41 - Setup completed for ChildAlertServiceTest
+[2025-07-12 11:56:54] INFO  ChildAlertServiceTest:98 - Starting testGetChildrenByAddress_NoPersonsAtAddress
+[2025-07-12 11:56:54] INFO  ChildAlertServiceTest:109 - Completed testGetChildrenByAddress_NoPersonsAtAddress
+[2025-07-12 11:56:54] INFO  ChildAlertServiceTest:41 - Setup completed for ChildAlertServiceTest
+[2025-07-12 11:56:54] INFO  ChildAlertServiceTest:79 - Starting testGetChildrenByAddress_NoChildren
+[2025-07-12 11:56:54] INFO  ChildAlertServiceTest:93 - Completed testGetChildrenByAddress_NoChildren
+[2025-07-12 11:56:54] INFO  ChildAlertServiceTest:41 - Setup completed for ChildAlertServiceTest
+[2025-07-12 11:56:54] INFO  ChildAlertServiceTest:46 - Starting testGetChildrenByAddress_WithChildren
+[2025-07-12 11:56:54] INFO  ChildAlertServiceTest:74 - Completed testGetChildrenByAddress_WithChildren
+[2025-07-12 11:56:54] INFO  CommunityEmailServiceTest:39 - Setup completed for CommunityEmailServiceTest
+[2025-07-12 11:56:54] INFO  CommunityEmailServiceTest:44 - Starting testGetEmailsByCity
+[2025-07-12 11:56:54] INFO  CommunityEmailServiceTest:66 - Completed testGetEmailsByCity
+[2025-07-12 11:56:54] INFO  FireAlertServiceTest:46 - Mock data set for persons and medical records
+[2025-07-12 11:56:54] INFO  FirestationServiceTest:47 - Setup completed: DataBean initialized with empty lists
+[2025-07-12 11:56:54] INFO  FirestationServiceTest:47 - Setup completed: DataBean initialized with empty lists
+[2025-07-12 11:56:54] INFO  FirestationServiceTest:47 - Setup completed: DataBean initialized with empty lists
+[2025-07-12 11:56:54] INFO  FirestationServiceTest:47 - Setup completed: DataBean initialized with empty lists
+[2025-07-12 11:56:54] INFO  FirestationServiceTest:47 - Setup completed: DataBean initialized with empty lists
+[2025-07-12 11:56:54] INFO  FirestationServiceTest:47 - Setup completed: DataBean initialized with empty lists
+[2025-07-12 11:56:54] INFO  FirestationServiceTest:47 - Setup completed: DataBean initialized with empty lists
+[2025-07-12 11:56:54] INFO  FloodServiceTest:49 - FloodServiceTest setup completed
+[2025-07-12 11:56:54] INFO  MedicalRecordServiceTest:40 - Setup completed, DataBean initialized
+[2025-07-12 11:56:54] INFO  MedicalRecordServiceTest:40 - Setup completed, DataBean initialized
+[2025-07-12 11:56:54] INFO  MedicalRecordServiceTest:40 - Setup completed, DataBean initialized
+[2025-07-12 11:56:54] INFO  MedicalRecordServiceTest:40 - Setup completed, DataBean initialized
+[2025-07-12 11:56:54] INFO  MedicalRecordServiceTest:40 - Setup completed, DataBean initialized
+[2025-07-12 11:56:54] INFO  PersonInfoLastNameServiceTest:41 - Setup PersonInfoLastNameServiceTest
+[2025-07-12 11:56:54] INFO  PersonInfoLastNameServiceTest:62 - Persons found with last name 'Boyd': 2
+[2025-07-12 11:56:54] INFO  PersonInfoLastNameServiceTest:72 - Details for John Boyd: address=1509 Culver St, email=john.boyd@mail.com
+[2025-07-12 11:56:54] INFO  PersonServiceTest:39 - Setup done: DataBean initialized with empty persons list.
+[2025-07-12 11:56:54] INFO  PersonServiceTest:76 - Update non-existing person result: false
+[2025-07-12 11:56:54] INFO  PersonServiceTest:39 - Setup done: DataBean initialized with empty persons list.
+[2025-07-12 11:56:54] INFO  PersonServiceTest:96 - Delete non-existing person result: false
+[2025-07-12 11:56:54] INFO  PersonServiceTest:39 - Setup done: DataBean initialized with empty persons list.
+[2025-07-12 11:56:54] INFO  PersonServiceTest:87 - Delete person result: true
+[2025-07-12 11:56:54] INFO  PersonServiceTest:39 - Setup done: DataBean initialized with empty persons list.
+[2025-07-12 11:56:54] INFO  PersonServiceTest:61 - Update person result: true
+[2025-07-12 11:56:54] INFO  PersonServiceTest:39 - Setup done: DataBean initialized with empty persons list.
+[2025-07-12 11:56:54] INFO  PersonServiceTest:46 - Person added: John Doe
+[2025-07-12 11:56:54] INFO  PersonServiceTest:51 - Number of persons after addition: 1
+[2025-07-12 11:56:54] INFO  PhoneAlertServiceTest:40 - Setup PhoneAlertServiceTest: DataBean initialized
+[2025-07-12 11:56:54] INFO  PhoneAlertServiceTest:81 - Phones retrieved for station '1' with no data: 0
+[2025-07-12 11:56:55] INFO  PhoneAlertServiceTest:40 - Setup PhoneAlertServiceTest: DataBean initialized
+[2025-07-12 11:56:55] INFO  PhoneAlertServiceTest:64 - Phones retrieved for station '1': 2
+[2025-07-12 11:56:55] INFO  AnnotationConfigContextLoaderUtils:83 - Could not detect default configuration classes for test class [com.projet5safetynet.safetynet.SafetynetApplicationTests]: SafetynetApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+[2025-07-12 11:56:55] INFO  SpringBootTestContextBootstrapper:234 - Found @SpringBootConfiguration com.projet5safetynet.safetynet.SafetynetApplication for test class com.projet5safetynet.safetynet.SafetynetApplicationTests
+[2025-07-12 11:56:55] INFO  RestartApplicationListener:74 - Restart disabled due to context in which it is running
+[2025-07-12 11:56:56] INFO  SafetynetApplicationTests:53 - Starting SafetynetApplicationTests using Java 17.0.12 with PID 29348 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+[2025-07-12 11:56:56] INFO  SafetynetApplicationTests:652 - No active profile set, falling back to 1 default profile: "default"
+[2025-07-12 11:56:59] INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:6c1eebf3-69ac-4850-aad8-b8635ae388a5'
+[2025-07-12 11:56:59] INFO  SafetynetApplicationTests:59 - Started SafetynetApplicationTests in 4.223 seconds (process running for 8.219)
+[2025-07-12 11:58:03] INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 16712 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+[2025-07-12 11:58:03] INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+[2025-07-12 11:58:04] INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+[2025-07-12 11:58:06] INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:adced362-6800-480a-bbb2-68a3f1345666'
+[2025-07-12 11:58:06] INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+[2025-07-12 11:58:06] INFO  SafetynetApplication:59 - Started SafetynetApplication in 3.073 seconds (process running for 3.651)
+[2025-07-12 12:01:20] INFO  GracefulShutdown:54 - Commencing graceful shutdown. Waiting for active requests to complete
+[2025-07-12 12:01:20] INFO  GracefulShutdown:76 - Graceful shutdown complete
+[2025-07-12 12:01:20] INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 16712 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+[2025-07-12 12:01:20] INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+[2025-07-12 12:01:20] INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+[2025-07-12 12:01:20] INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:a3171b57-3f69-4f1e-b4e7-ab94a13b1ea9'
+[2025-07-12 12:01:21] INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+[2025-07-12 12:01:21] INFO  SafetynetApplication:59 - Started SafetynetApplication in 0.684 seconds (process running for 198.104)
+[2025-07-12 12:01:22] INFO  GracefulShutdown:54 - Commencing graceful shutdown. Waiting for active requests to complete
+[2025-07-12 12:01:22] INFO  GracefulShutdown:76 - Graceful shutdown complete
+[2025-07-12 12:01:22] INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 16712 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+[2025-07-12 12:01:22] INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+[2025-07-12 12:01:22] INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+[2025-07-12 12:01:22] INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:91877c7c-b515-4ac9-a7d6-f90670500a9f'
+[2025-07-12 12:01:22] INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+[2025-07-12 12:01:22] INFO  SafetynetApplication:59 - Started SafetynetApplication in 0.449 seconds (process running for 200.057)
+[2025-07-12 12:03:23] INFO  GracefulShutdown:54 - Commencing graceful shutdown. Waiting for active requests to complete
+[2025-07-12 12:03:24] INFO  GracefulShutdown:76 - Graceful shutdown complete
+2025-07-12 12:05:16 INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 14600 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 12:05:16 INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 12:05:17 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2025-07-12 12:05:18 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:7b2647a9-eccc-40d2-b259-b3b8786a435e'
+2025-07-12 12:05:18 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2025-07-12 12:05:18 INFO  SafetynetApplication:59 - Started SafetynetApplication in 3.036 seconds (process running for 3.644)
+2025-07-12 12:07:32 INFO  ChildAlertServiceTest:41 - Setup completed for ChildAlertServiceTest
+2025-07-12 12:07:32 INFO  ChildAlertServiceTest:98 - Starting testGetChildrenByAddress_NoPersonsAtAddress
+2025-07-12 12:07:32 DEBUG ChildAlertServiceTest:104 - Children found: []
+2025-07-12 12:07:32 INFO  ChildAlertServiceTest:109 - Completed testGetChildrenByAddress_NoPersonsAtAddress
+2025-07-12 12:07:32 INFO  ChildAlertServiceTest:41 - Setup completed for ChildAlertServiceTest
+2025-07-12 12:07:32 INFO  ChildAlertServiceTest:79 - Starting testGetChildrenByAddress_NoChildren
+2025-07-12 12:07:32 DEBUG ChildAlertServiceTest:88 - Children found: []
+2025-07-12 12:07:32 INFO  ChildAlertServiceTest:93 - Completed testGetChildrenByAddress_NoChildren
+2025-07-12 12:07:32 INFO  ChildAlertServiceTest:41 - Setup completed for ChildAlertServiceTest
+2025-07-12 12:07:32 INFO  ChildAlertServiceTest:46 - Starting testGetChildrenByAddress_WithChildren
+2025-07-12 12:07:32 DEBUG ChildAlertServiceTest:61 - Children found: [com.projet5safetynet.safetynet.dto.ChildAlertDTO@6109d880]
+2025-07-12 12:07:32 INFO  ChildAlertServiceTest:74 - Completed testGetChildrenByAddress_WithChildren
+2025-07-12 12:07:32 DEBUG ReflectionTestUtils:198 - Setting field 'dataService' of type [null] on target object [com.projet5safetynet.safetynet.service.CommunityEmailService@fcd3a6f] or target class [class com.projet5safetynet.safetynet.service.CommunityEmailService] to value [dataService]
+2025-07-12 12:07:32 INFO  CommunityEmailServiceTest:39 - Setup completed for CommunityEmailServiceTest
+2025-07-12 12:07:32 INFO  CommunityEmailServiceTest:44 - Starting testGetEmailsByCity
+2025-07-12 12:07:32 DEBUG CommunityEmailServiceTest:57 - Emails found: [john.boyd@mail.com, jane.doe@mail.com, ann.brown@mail.com]
+2025-07-12 12:07:32 INFO  CommunityEmailServiceTest:66 - Completed testGetEmailsByCity
+2025-07-12 12:07:32 INFO  FireAlertServiceTest:46 - Mock data set for persons and medical records
+2025-07-12 12:07:32 DEBUG FireAlertServiceTest:49 - Number of residents retrieved: 2
+2025-07-12 12:07:32 DEBUG FireAlertServiceTest:54 - Checking resident: John
+2025-07-12 12:07:32 DEBUG FireAlertServiceTest:62 - Checking resident: Jane
+2025-07-12 12:07:32 INFO  FirestationServiceTest:47 - Setup completed: DataBean initialized with empty lists
+2025-07-12 12:07:32 DEBUG FirestationServiceTest:101 - Firestation added for deletion by station test: Firestation(address=123 Street, station=1)
+2025-07-12 12:07:32 DEBUG FirestationServiceTest:104 - Delete by station result: true
+2025-07-12 12:07:32 INFO  FirestationServiceTest:47 - Setup completed: DataBean initialized with empty lists
+2025-07-12 12:07:32 DEBUG FirestationServiceTest:131 - Setup persons and medical records for station 1
+2025-07-12 12:07:32 DEBUG FirestationServiceTest:135 - Persons retrieved: 2, Child count: 1, Adult count: 1
+2025-07-12 12:07:32 INFO  FirestationServiceTest:47 - Setup completed: DataBean initialized with empty lists
+2025-07-12 12:07:32 DEBUG FirestationServiceTest:113 - Delete attempt for non-existent firestation result: false
+2025-07-12 12:07:32 INFO  FirestationServiceTest:47 - Setup completed: DataBean initialized with empty lists
+2025-07-12 12:07:32 DEBUG FirestationServiceTest:67 - Initial Firestation added: Firestation(address=123 Street, station=1)
+2025-07-12 12:07:32 DEBUG FirestationServiceTest:70 - Update result for address '123 Street': true
+2025-07-12 12:07:32 INFO  FirestationServiceTest:47 - Setup completed: DataBean initialized with empty lists
+2025-07-12 12:07:32 DEBUG FirestationServiceTest:88 - Firestation added for deletion by address test: Firestation(address=123 Street, station=1)
+2025-07-12 12:07:32 DEBUG FirestationServiceTest:91 - Delete by address result: true
+2025-07-12 12:07:32 INFO  FirestationServiceTest:47 - Setup completed: DataBean initialized with empty lists
+2025-07-12 12:07:32 DEBUG FirestationServiceTest:79 - Update attempt for non-existent address result: false
+2025-07-12 12:07:32 INFO  FirestationServiceTest:47 - Setup completed: DataBean initialized with empty lists
+2025-07-12 12:07:32 DEBUG FirestationServiceTest:54 - Added Firestation: Firestation(address=123 Street, station=1)
+2025-07-12 12:07:32 DEBUG FirestationServiceTest:57 - Retrieved firestations count: 1
+2025-07-12 12:07:32 DEBUG ReflectionTestUtils:198 - Setting field 'dataService' of type [null] on target object [com.projet5safetynet.safetynet.service.FloodService@5cd6719d] or target class [class com.projet5safetynet.safetynet.service.FloodService] to value [dataService]
+2025-07-12 12:07:32 INFO  FloodServiceTest:49 - FloodServiceTest setup completed
+2025-07-12 12:07:32 DEBUG FloodServiceTest:76 - Mocks set for firestations, persons, and medical records
+2025-07-12 12:07:32 DEBUG FloodServiceTest:79 - Result map size: 2
+2025-07-12 12:07:32 INFO  MedicalRecordServiceTest:40 - Setup completed, DataBean initialized
+2025-07-12 12:07:32 DEBUG MedicalRecordServiceTest:86 - MedicalRecord added for deletion test: MedicalRecord(firstName=John, lastName=Doe, birthdate=01/01/1990, medications=[med1], allergies=[allergy1])
+2025-07-12 12:07:32 DEBUG MedicalRecordServiceTest:89 - Delete result: true
+2025-07-12 12:07:32 INFO  MedicalRecordServiceTest:40 - Setup completed, DataBean initialized
+2025-07-12 12:07:32 DEBUG MedicalRecordServiceTest:77 - Update non-existing record result: false
+2025-07-12 12:07:32 INFO  MedicalRecordServiceTest:40 - Setup completed, DataBean initialized
+2025-07-12 12:07:32 DEBUG MedicalRecordServiceTest:98 - Delete non-existing record result: false
+2025-07-12 12:07:32 INFO  MedicalRecordServiceTest:40 - Setup completed, DataBean initialized
+2025-07-12 12:07:32 DEBUG MedicalRecordServiceTest:47 - Added MedicalRecord: MedicalRecord(firstName=John, lastName=Doe, birthdate=01/01/1990, medications=[med1], allergies=[allergy1])
+2025-07-12 12:07:32 DEBUG MedicalRecordServiceTest:50 - Retrieved medical records count: 1
+2025-07-12 12:07:32 INFO  MedicalRecordServiceTest:40 - Setup completed, DataBean initialized
+2025-07-12 12:07:32 DEBUG MedicalRecordServiceTest:60 - Initial MedicalRecord added: MedicalRecord(firstName=John, lastName=Doe, birthdate=01/01/1990, medications=[med1], allergies=[allergy1])
+2025-07-12 12:07:32 DEBUG MedicalRecordServiceTest:64 - Update result: true
+2025-07-12 12:07:32 DEBUG ReflectionTestUtils:198 - Setting field 'dataService' of type [null] on target object [com.projet5safetynet.safetynet.service.PersonInfoLastNameService@49ea13b6] or target class [class com.projet5safetynet.safetynet.service.PersonInfoLastNameService] to value [dataService]
+2025-07-12 12:07:32 INFO  PersonInfoLastNameServiceTest:41 - Setup PersonInfoLastNameServiceTest
+2025-07-12 12:07:32 INFO  PersonInfoLastNameServiceTest:62 - Persons found with last name 'Boyd': 2
+2025-07-12 12:07:32 INFO  PersonInfoLastNameServiceTest:72 - Details for John Boyd: address=1509 Culver St, email=john.boyd@mail.com
+2025-07-12 12:07:32 INFO  PersonServiceTest:39 - Setup done: DataBean initialized with empty persons list.
+2025-07-12 12:07:33 INFO  PersonServiceTest:76 - Update non-existing person result: false
+2025-07-12 12:07:33 INFO  PersonServiceTest:39 - Setup done: DataBean initialized with empty persons list.
+2025-07-12 12:07:33 INFO  PersonServiceTest:96 - Delete non-existing person result: false
+2025-07-12 12:07:33 INFO  PersonServiceTest:39 - Setup done: DataBean initialized with empty persons list.
+2025-07-12 12:07:33 INFO  PersonServiceTest:87 - Delete person result: true
+2025-07-12 12:07:33 INFO  PersonServiceTest:39 - Setup done: DataBean initialized with empty persons list.
+2025-07-12 12:07:33 INFO  PersonServiceTest:61 - Update person result: true
+2025-07-12 12:07:33 INFO  PersonServiceTest:39 - Setup done: DataBean initialized with empty persons list.
+2025-07-12 12:07:33 INFO  PersonServiceTest:46 - Person added: John Doe
+2025-07-12 12:07:33 INFO  PersonServiceTest:51 - Number of persons after addition: 1
+2025-07-12 12:07:33 INFO  PhoneAlertServiceTest:40 - Setup PhoneAlertServiceTest: DataBean initialized
+2025-07-12 12:07:33 INFO  PhoneAlertServiceTest:81 - Phones retrieved for station '1' with no data: 0
+2025-07-12 12:07:33 INFO  PhoneAlertServiceTest:40 - Setup PhoneAlertServiceTest: DataBean initialized
+2025-07-12 12:07:33 INFO  PhoneAlertServiceTest:64 - Phones retrieved for station '1': 2
+2025-07-12 12:07:33 DEBUG SpringBootTestContextBootstrapper:263 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [SafetynetApplicationTests]: using SpringBootContextLoader
+2025-07-12 12:07:33 DEBUG AbstractContextLoader:271 - Could not detect default resource locations for test class [com.projet5safetynet.safetynet.SafetynetApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2025-07-12 12:07:33 INFO  AnnotationConfigContextLoaderUtils:83 - Could not detect default configuration classes for test class [com.projet5safetynet.safetynet.SafetynetApplicationTests]: SafetynetApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-07-12 12:07:33 DEBUG SpringBootTestContextBootstrapper:432 - Using ContextCustomizerFactory implementations for test class [SafetynetApplicationTests]: [ImportsContextCustomizerFactory, ExcludeFilterContextCustomizerFactory, HttpGraphQlTesterContextCustomizerFactory, DuplicateJsonObjectContextCustomizerFactory, MockitoContextCustomizerFactory, TestRestTemplateContextCustomizerFactory, WebTestClientContextCustomizerFactory, DisableReactorResourceFactoryGlobalResourcesContextCustomizerFactory, OnFailureConditionReportContextCustomizerFactory, OverrideAutoConfigurationContextCustomizerFactory, ObservabilityContextCustomizerFactory, TypeExcludeFiltersContextCustomizerFactory, PropertyMappingContextCustomizerFactory, WebDriverContextCustomizerFactory, BeanOverrideContextCustomizerFactory, MockServerContainerContextCustomizerFactory, DynamicPropertiesContextCustomizerFactory]
+2025-07-12 12:07:33 DEBUG SpringBootTestContextBootstrapper:370 - Using ContextCustomizers for test class [SafetynetApplicationTests]: [ExcludeFilterContextCustomizer, DuplicateJsonObjectContextCustomizer, MockitoContextCustomizer, TestRestTemplateContextCustomizer, DisableReactorResourceFactoryGlobalResourcesContextCustomizerCustomizer, OnFailureConditionReportContextCustomizer, DisableObservabilityContextCustomizer, PropertyMappingContextCustomizer, WebDriverContextCustomizer, DynamicPropertiesContextCustomizer]
+2025-07-12 12:07:33 DEBUG ClassPathScanningCandidateComponentProvider:476 - Identified candidate component class: file [C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes\com\projet5safetynet\safetynet\SafetynetApplication.class]
+2025-07-12 12:07:33 INFO  SpringBootTestContextBootstrapper:234 - Found @SpringBootConfiguration com.projet5safetynet.safetynet.SafetynetApplication for test class com.projet5safetynet.safetynet.SafetynetApplicationTests
+2025-07-12 12:07:33 DEBUG TestContextSpringFactoriesUtils:43 - Skipping candidate TestExecutionListener [org.springframework.test.context.observation.MicrometerObservationRegistryTestExecutionListener] due to a missing dependency. Specify custom TestExecutionListener classes or make the default TestExecutionListener classes and their required dependencies available. Offending class: io.micrometer.context.ThreadLocalAccessor. MicrometerObservationRegistryTestExecutionListener requires io.micrometer:micrometer-observation:1.10.8 or higher and io.micrometer:context-propagation:1.0.3 or higher.
+2025-07-12 12:07:33 DEBUG SpringBootTestContextBootstrapper:182 - Using TestExecutionListeners for test class [SafetynetApplicationTests]: [ServletTestExecutionListener, DirtiesContextBeforeModesTestExecutionListener, ApplicationEventsTestExecutionListener, MockitoTestExecutionListener, BeanOverrideTestExecutionListener, DependencyInjectionTestExecutionListener, DirtiesContextTestExecutionListener, CommonCachesTestExecutionListener, TransactionalTestExecutionListener, SqlScriptsTestExecutionListener, EventPublishingTestExecutionListener, ResetMocksTestExecutionListener, RestDocsTestExecutionListener, MockRestServiceServerResetTestExecutionListener, MockMvcPrintOnlyOnFailureTestExecutionListener, WebDriverTestExecutionListener, MockWebServiceServerTestExecutionListener, MockitoResetTestExecutionListener]
+2025-07-12 12:07:33 DEBUG DirtiesContextBeforeModesTestExecutionListener:156 - Before test class: class [SafetynetApplicationTests], class annotated with @DirtiesContext [false] with mode [null]
+2025-07-12 12:07:33 INFO  RestartApplicationListener:74 - Restart disabled due to context in which it is running
+2025-07-12 12:07:34 INFO  SafetynetApplicationTests:53 - Starting SafetynetApplicationTests using Java 17.0.12 with PID 31056 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 12:07:34 INFO  SafetynetApplicationTests:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 12:07:37 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:facf2c03-8dc3-4241-a7e8-6efc446035b3'
+2025-07-12 12:07:37 INFO  SafetynetApplicationTests:59 - Started SafetynetApplicationTests in 4.047 seconds (process running for 7.928)
+2025-07-12 12:07:59 INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 20500 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 12:07:59 INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 12:08:00 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2025-07-12 12:08:02 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:a975d950-4730-4eaf-b90b-3853724ad30d'
+2025-07-12 12:08:02 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2025-07-12 12:08:02 INFO  SafetynetApplication:59 - Started SafetynetApplication in 3.103 seconds (process running for 3.737)
+2025-07-12 12:17:46 INFO  GracefulShutdown:54 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-12 12:17:46 INFO  GracefulShutdown:76 - Graceful shutdown complete
+2025-07-12 12:17:46 INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 20500 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 12:17:46 INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 12:17:46 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2025-07-12 12:17:46 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:f4edb336-b97f-42ee-ad9e-69eea4db0649'
+2025-07-12 12:17:46 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2025-07-12 12:17:46 INFO  SafetynetApplication:59 - Started SafetynetApplication in 0.483 seconds (process running for 588.132)
+2025-07-12 12:30:21 INFO  ChildAlertService:26 - Recherche des enfants à l'adresse : Unknown address
+2025-07-12 12:30:21 INFO  ChildAlertService:32 - Nombre total de personnes trouvées à l'adresse Unknown address : 0
+2025-07-12 12:30:21 INFO  ChildAlertService:60 - Nombre total d'enfants trouvés à l'adresse Unknown address : 0
+2025-07-12 12:30:21 INFO  ChildAlertService:26 - Recherche des enfants à l'adresse : 1509 3rd St
+2025-07-12 12:30:21 INFO  ChildAlertService:32 - Nombre total de personnes trouvées à l'adresse 1509 3rd St : 1
+2025-07-12 12:30:21 INFO  ChildAlertService:60 - Nombre total d'enfants trouvés à l'adresse 1509 3rd St : 0
+2025-07-12 12:30:21 INFO  ChildAlertService:26 - Recherche des enfants à l'adresse : 1509 3rd St
+2025-07-12 12:30:21 INFO  ChildAlertService:32 - Nombre total de personnes trouvées à l'adresse 1509 3rd St : 2
+2025-07-12 12:30:21 INFO  ChildAlertService:46 - Enfant trouvé : John Doe (15 ans)
+2025-07-12 12:30:21 INFO  ChildAlertService:60 - Nombre total d'enfants trouvés à l'adresse 1509 3rd St : 1
+2025-07-12 12:30:21 DEBUG ReflectionTestUtils:198 - Setting field 'dataService' of type [null] on target object [com.projet5safetynet.safetynet.service.CommunityEmailService@637d111d] or target class [class com.projet5safetynet.safetynet.service.CommunityEmailService] to value [dataService]
+2025-07-12 12:30:21 INFO  CommunityEmailService:20 - Recherche des emails dans la ville : Culver
+2025-07-12 12:30:21 INFO  CommunityEmailService:26 - Nombre d'emails trouvés dans la ville Culver : 3
+2025-07-12 12:30:21 INFO  FireAlertService:26 - Recherche des résidents à l'adresse : 123 Street
+2025-07-12 12:30:21 INFO  FireAlertService:32 - Nombre de résidents trouvés à l'adresse 123 Street : 2
+2025-07-12 12:30:21 INFO  FireAlertService:45 - Résident trouvé : John Doe, âge 25
+2025-07-12 12:30:21 INFO  FireAlertService:45 - Résident trouvé : Jane Doe, âge 15
+2025-07-12 12:30:21 INFO  FireAlertService:60 - Nombre total de résidents avec dossier médical à l'adresse 123 Street : 2
+2025-07-12 12:30:21 INFO  FirestationService:119 - Suppression d'une caserne avec adresse = null ou station = 1
+2025-07-12 12:30:21 INFO  FirestationService:126 - Une ou plusieurs casernes ont été supprimées.
+2025-07-12 12:30:21 INFO  FirestationService:36 - Requête de personnes couvertes par la caserne numéro : 1
+2025-07-12 12:30:21 INFO  FirestationService:47 - Adresses couvertes par la caserne 1 : [123 Street]
+2025-07-12 12:30:21 INFO  FirestationService:87 - Calcul de l'âge pour la date de naissance 01/01/2010 : 15 ans
+2025-07-12 12:30:21 INFO  FirestationService:87 - Calcul de l'âge pour la date de naissance 01/01/1980 : 45 ans
+2025-07-12 12:30:21 INFO  FirestationService:71 - Nombre d'enfants couverts : 1
+2025-07-12 12:30:21 INFO  FirestationService:72 - Nombre d'adultes couverts : 1
+2025-07-12 12:30:21 INFO  FirestationService:119 - Suppression d'une caserne avec adresse = Non Existent Address ou station = 9
+2025-07-12 12:30:21 WARN  FirestationService:128 - Aucune caserne correspondante trouvée pour suppression.
+2025-07-12 12:30:21 INFO  FirestationService:104 - Mise à jour de la caserne pour l'adresse 123 Street avec le nouveau numéro 2
+2025-07-12 12:30:21 INFO  FirestationService:110 - Caserne mise à jour de 1 à 2 pour l'adresse 123 Street
+2025-07-12 12:30:21 INFO  FirestationService:119 - Suppression d'une caserne avec adresse = 123 Street ou station = null
+2025-07-12 12:30:21 INFO  FirestationService:126 - Une ou plusieurs casernes ont été supprimées.
+2025-07-12 12:30:21 INFO  FirestationService:104 - Mise à jour de la caserne pour l'adresse Non Existent Address avec le nouveau numéro 2
+2025-07-12 12:30:21 WARN  FirestationService:114 - Aucune caserne trouvée pour l'adresse Non Existent Address
+2025-07-12 12:30:21 INFO  FirestationService:97 - Ajout d'une nouvelle caserne avec adresse 123 Street et numéro 1
+2025-07-12 12:30:21 INFO  FirestationService:100 - Caserne ajoutée. Nombre total de casernes : 1
+2025-07-12 12:30:22 INFO  FirestationService:29 - Récupération de toutes les casernes
+2025-07-12 12:30:22 INFO  FirestationService:31 - Nombre de casernes trouvées : 1
+2025-07-12 12:30:22 DEBUG ReflectionTestUtils:198 - Setting field 'dataService' of type [null] on target object [com.projet5safetynet.safetynet.service.FloodService@154b0748] or target class [class com.projet5safetynet.safetynet.service.FloodService] to value [dataService]
+2025-07-12 12:30:22 INFO  FloodService:30 - Début de la récupération des résidents desservis par les stations : [1]
+2025-07-12 12:30:22 INFO  FloodService:42 - Adresses desservies par les stations [1] : [1509 Culver St, 834 Binoc Ave]
+2025-07-12 12:30:22 INFO  FloodService:69 - Ajout du résident John Boyd (41 ans) à l'adresse 1509 Culver St
+2025-07-12 12:30:22 INFO  FloodService:69 - Ajout du résident Bob Smith (25 ans) à l'adresse 834 Binoc Ave
+2025-07-12 12:30:22 INFO  FloodService:77 - Fin récupération résidents par stations. Nombre d'adresses traitées : 2
+2025-07-12 12:30:22 INFO  MedicalRecordService:54 - Suppression du dossier médical pour John Doe
+2025-07-12 12:30:22 INFO  MedicalRecordService:58 - Dossier médical supprimé pour John Doe
+2025-07-12 12:30:22 INFO  MedicalRecordService:37 - Mise à jour du dossier médical pour Jane Doe
+2025-07-12 12:30:22 WARN  MedicalRecordService:48 - Aucun dossier médical trouvé pour Jane Doe
+2025-07-12 12:30:22 INFO  MedicalRecordService:54 - Suppression du dossier médical pour Jane Doe
+2025-07-12 12:30:22 WARN  MedicalRecordService:60 - Aucun dossier médical trouvé à supprimer pour Jane Doe
+2025-07-12 12:30:22 INFO  MedicalRecordService:29 - Ajout d'un dossier médical pour John Doe
+2025-07-12 12:30:22 INFO  MedicalRecordService:32 - Dossier ajouté. Nombre total de dossiers médicaux : 1
+2025-07-12 12:30:22 INFO  MedicalRecordService:21 - Récupération de tous les dossiers médicaux
+2025-07-12 12:30:22 INFO  MedicalRecordService:23 - Nombre de dossiers médicaux trouvés : 1
+2025-07-12 12:30:22 INFO  MedicalRecordService:37 - Mise à jour du dossier médical pour John Doe
+2025-07-12 12:30:22 INFO  MedicalRecordService:44 - Dossier médical mis à jour pour John Doe
+2025-07-12 12:30:22 DEBUG ReflectionTestUtils:198 - Setting field 'dataService' of type [null] on target object [com.projet5safetynet.safetynet.service.PersonInfoLastNameService@4e45fbd0] or target class [class com.projet5safetynet.safetynet.service.PersonInfoLastNameService] to value [dataService]
+2025-07-12 12:30:22 INFO  PersonInfoLastNameService:25 - Recherche des personnes avec le nom de famille : Boyd
+2025-07-12 12:30:22 INFO  PersonInfoLastNameService:51 - Ajout de la personne John Boyd, 41 ans, adresse: 1509 Culver St
+2025-07-12 12:30:22 INFO  PersonInfoLastNameService:51 - Ajout de la personne Johnny Boyd, 25 ans, adresse: 834 Binoc Ave
+2025-07-12 12:30:22 INFO  PersonInfoLastNameService:58 - Fin de la recherche, nombre de personnes trouvées : 2
+2025-07-12 12:30:22 INFO  PersonService:33 - Mise à jour de la personne : Jane Doe
+2025-07-12 12:30:22 WARN  PersonService:46 - Personne non trouvée pour la mise à jour : Jane Doe
+2025-07-12 12:30:22 INFO  PersonService:51 - Suppression de la personne : Jane Doe
+2025-07-12 12:30:22 WARN  PersonService:57 - Personne non trouvée pour suppression : Jane Doe
+2025-07-12 12:30:22 INFO  PersonService:51 - Suppression de la personne : John Doe
+2025-07-12 12:30:22 INFO  PersonService:55 - Personne supprimée avec succès
+2025-07-12 12:30:22 INFO  PersonService:33 - Mise à jour de la personne : John Doe
+2025-07-12 12:30:22 INFO  PersonService:42 - Mise à jour effectuée avec succès
+2025-07-12 12:30:22 INFO  PersonService:27 - Ajout d'une nouvelle personne : John Doe
+2025-07-12 12:30:22 INFO  PersonService:22 - Récupération de toutes les personnes
+2025-07-12 12:30:22 INFO  PhoneAlertService:21 - Recherche des numéros de téléphone pour la caserne numéro : 1
+2025-07-12 12:30:22 DEBUG PhoneAlertService:28 - Adresses récupérées pour la caserne 1 : []
+2025-07-12 12:30:22 INFO  PhoneAlertService:36 - Nombre de téléphones trouvés : 0
+2025-07-12 12:30:22 INFO  PhoneAlertService:21 - Recherche des numéros de téléphone pour la caserne numéro : 1
+2025-07-12 12:30:22 DEBUG PhoneAlertService:28 - Adresses récupérées pour la caserne 1 : [1509 3rd St]
+2025-07-12 12:30:22 INFO  PhoneAlertService:36 - Nombre de téléphones trouvés : 2
+2025-07-12 12:30:22 DEBUG SpringBootTestContextBootstrapper:263 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [SafetynetApplicationTests]: using SpringBootContextLoader
+2025-07-12 12:30:22 DEBUG AbstractContextLoader:271 - Could not detect default resource locations for test class [com.projet5safetynet.safetynet.SafetynetApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2025-07-12 12:30:22 INFO  AnnotationConfigContextLoaderUtils:83 - Could not detect default configuration classes for test class [com.projet5safetynet.safetynet.SafetynetApplicationTests]: SafetynetApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-07-12 12:30:22 DEBUG SpringBootTestContextBootstrapper:432 - Using ContextCustomizerFactory implementations for test class [SafetynetApplicationTests]: [ImportsContextCustomizerFactory, ExcludeFilterContextCustomizerFactory, HttpGraphQlTesterContextCustomizerFactory, DuplicateJsonObjectContextCustomizerFactory, MockitoContextCustomizerFactory, TestRestTemplateContextCustomizerFactory, WebTestClientContextCustomizerFactory, DisableReactorResourceFactoryGlobalResourcesContextCustomizerFactory, OnFailureConditionReportContextCustomizerFactory, OverrideAutoConfigurationContextCustomizerFactory, ObservabilityContextCustomizerFactory, TypeExcludeFiltersContextCustomizerFactory, PropertyMappingContextCustomizerFactory, WebDriverContextCustomizerFactory, BeanOverrideContextCustomizerFactory, MockServerContainerContextCustomizerFactory, DynamicPropertiesContextCustomizerFactory]
+2025-07-12 12:30:22 DEBUG SpringBootTestContextBootstrapper:370 - Using ContextCustomizers for test class [SafetynetApplicationTests]: [ExcludeFilterContextCustomizer, DuplicateJsonObjectContextCustomizer, MockitoContextCustomizer, TestRestTemplateContextCustomizer, DisableReactorResourceFactoryGlobalResourcesContextCustomizerCustomizer, OnFailureConditionReportContextCustomizer, DisableObservabilityContextCustomizer, PropertyMappingContextCustomizer, WebDriverContextCustomizer, DynamicPropertiesContextCustomizer]
+2025-07-12 12:30:22 DEBUG ClassPathScanningCandidateComponentProvider:476 - Identified candidate component class: file [C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes\com\projet5safetynet\safetynet\SafetynetApplication.class]
+2025-07-12 12:30:22 INFO  SpringBootTestContextBootstrapper:234 - Found @SpringBootConfiguration com.projet5safetynet.safetynet.SafetynetApplication for test class com.projet5safetynet.safetynet.SafetynetApplicationTests
+2025-07-12 12:30:22 DEBUG TestContextSpringFactoriesUtils:43 - Skipping candidate TestExecutionListener [org.springframework.test.context.observation.MicrometerObservationRegistryTestExecutionListener] due to a missing dependency. Specify custom TestExecutionListener classes or make the default TestExecutionListener classes and their required dependencies available. Offending class: io.micrometer.context.ThreadLocalAccessor. MicrometerObservationRegistryTestExecutionListener requires io.micrometer:micrometer-observation:1.10.8 or higher and io.micrometer:context-propagation:1.0.3 or higher.
+2025-07-12 12:30:22 DEBUG SpringBootTestContextBootstrapper:182 - Using TestExecutionListeners for test class [SafetynetApplicationTests]: [ServletTestExecutionListener, DirtiesContextBeforeModesTestExecutionListener, ApplicationEventsTestExecutionListener, MockitoTestExecutionListener, BeanOverrideTestExecutionListener, DependencyInjectionTestExecutionListener, DirtiesContextTestExecutionListener, CommonCachesTestExecutionListener, TransactionalTestExecutionListener, SqlScriptsTestExecutionListener, EventPublishingTestExecutionListener, ResetMocksTestExecutionListener, RestDocsTestExecutionListener, MockRestServiceServerResetTestExecutionListener, MockMvcPrintOnlyOnFailureTestExecutionListener, WebDriverTestExecutionListener, MockWebServiceServerTestExecutionListener, MockitoResetTestExecutionListener]
+2025-07-12 12:30:22 DEBUG DirtiesContextBeforeModesTestExecutionListener:156 - Before test class: class [SafetynetApplicationTests], class annotated with @DirtiesContext [false] with mode [null]
+2025-07-12 12:30:22 INFO  RestartApplicationListener:74 - Restart disabled due to context in which it is running
+2025-07-12 12:30:23 INFO  SafetynetApplicationTests:53 - Starting SafetynetApplicationTests using Java 17.0.12 with PID 8612 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 12:30:23 INFO  SafetynetApplicationTests:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 12:30:26 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:77c8da4c-a4e4-46bd-90bc-adb727d56f30'
+2025-07-12 12:30:26 INFO  SafetynetApplicationTests:59 - Started SafetynetApplicationTests in 3.81 seconds (process running for 7.565)
+2025-07-12 12:31:41 INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 16564 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 12:31:41 INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 12:31:42 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2025-07-12 12:31:44 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:d0023bc7-1d8a-4407-a9d8-6b7cd680eba5'
+2025-07-12 12:31:44 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2025-07-12 12:31:44 INFO  SafetynetApplication:59 - Started SafetynetApplication in 2.887 seconds (process running for 3.508)
+2025-07-12 12:31:47 INFO  PersonService:22 - RÃ©cupÃ©ration de toutes les personnes
+2025-07-12 12:32:34 INFO  PersonService:27 - Ajout d'une nouvelle personne : David Dav
+2025-07-12 12:41:48 INFO  GracefulShutdown:54 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-12 12:41:48 INFO  GracefulShutdown:76 - Graceful shutdown complete
+2025-07-12 12:41:48 INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 16564 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 12:41:48 INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 12:41:49 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2025-07-12 12:41:49 ERROR SpringApplication:858 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'communityEmailController' defined in file [C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes\com\projet5safetynet\safetynet\controller\CommunityEmailController.class]: Failed to instantiate [com.projet5safetynet.safetynet.controller.CommunityEmailController]: Constructor threw exception
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1357) ~[spring-beans-6.2.7.jar:6.2.7]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1242) ~[spring-beans-6.2.7.jar:6.2.7]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:569) ~[spring-beans-6.2.7.jar:6.2.7]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529) ~[spring-beans-6.2.7.jar:6.2.7]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339) ~[spring-beans-6.2.7.jar:6.2.7]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:373) ~[spring-beans-6.2.7.jar:6.2.7]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337) ~[spring-beans-6.2.7.jar:6.2.7]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-6.2.7.jar:6.2.7]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1222) ~[spring-beans-6.2.7.jar:6.2.7]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1188) ~[spring-beans-6.2.7.jar:6.2.7]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1123) ~[spring-beans-6.2.7.jar:6.2.7]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987) ~[spring-context-6.2.7.jar:6.2.7]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.2.7.jar:6.2.7]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.5.0.jar:3.5.0]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:753) [spring-boot-3.5.0.jar:3.5.0]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) [spring-boot-3.5.0.jar:3.5.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318) [spring-boot-3.5.0.jar:3.5.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1362) [spring-boot-3.5.0.jar:3.5.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1351) [spring-boot-3.5.0.jar:3.5.0]
+	at com.projet5safetynet.safetynet.SafetynetApplication.main(SafetynetApplication.java:14) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) [spring-boot-devtools-3.5.0.jar:3.5.0]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.projet5safetynet.safetynet.controller.CommunityEmailController]: Constructor threw exception
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:222) ~[spring-beans-6.2.7.jar:6.2.7]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122) ~[spring-beans-6.2.7.jar:6.2.7]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1351) ~[spring-beans-6.2.7.jar:6.2.7]
+	... 24 more
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	Logger cannot be resolved to a type
+	LogManager cannot be resolved
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+
+	at com.projet5safetynet.safetynet.controller.CommunityEmailController.<init>(CommunityEmailController.java:14) ~[classes/:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:196) ~[spring-beans-6.2.7.jar:6.2.7]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122) ~[spring-beans-6.2.7.jar:6.2.7]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1351) ~[spring-beans-6.2.7.jar:6.2.7]
+	... 24 more
+2025-07-12 12:42:14 INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 16564 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 12:42:14 INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 12:42:14 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2025-07-12 12:42:14 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:2a51d8cb-22f6-4438-99f7-618b9d318f71'
+2025-07-12 12:42:14 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2025-07-12 12:42:14 INFO  SafetynetApplication:59 - Started SafetynetApplication in 0.469 seconds (process running for 634.145)
+2025-07-12 12:47:48 INFO  GracefulShutdown:54 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-12 12:47:48 INFO  GracefulShutdown:76 - Graceful shutdown complete
+2025-07-12 12:47:48 INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 16564 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 12:47:48 INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 12:47:48 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2025-07-12 12:47:48 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:9272e3ce-ec49-421b-915e-d10c37182fae'
+2025-07-12 12:47:48 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2025-07-12 12:47:48 INFO  SafetynetApplication:59 - Started SafetynetApplication in 0.425 seconds (process running for 968.146)
+2025-07-12 12:56:00 INFO  GracefulShutdown:54 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-12 12:56:00 INFO  GracefulShutdown:76 - Graceful shutdown complete
+2025-07-12 12:56:00 INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 16564 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 12:56:00 INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 12:56:00 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2025-07-12 12:56:00 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:9ea150b9-f2b4-406b-916b-392ce9ecc499'
+2025-07-12 12:56:00 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2025-07-12 12:56:00 INFO  SafetynetApplication:59 - Started SafetynetApplication in 0.332 seconds (process running for 1459.765)
+2025-07-12 13:03:03 INFO  GracefulShutdown:54 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-12 13:03:03 INFO  GracefulShutdown:76 - Graceful shutdown complete
+2025-07-12 13:03:03 INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 16564 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 13:03:03 INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 13:03:03 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2025-07-12 13:03:03 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:015473e9-587e-4c4e-9a6c-f57d389dd6ad'
+2025-07-12 13:03:03 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2025-07-12 13:03:03 INFO  SafetynetApplication:59 - Started SafetynetApplication in 0.33 seconds (process running for 1882.726)
+2025-07-12 13:04:21 INFO  GracefulShutdown:54 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-12 13:04:21 INFO  GracefulShutdown:76 - Graceful shutdown complete
+2025-07-12 13:04:21 INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 16564 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 13:04:21 INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 13:04:21 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2025-07-12 13:04:21 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:bc15a665-4b1f-4a3e-baa0-672724fb3a20'
+2025-07-12 13:04:22 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2025-07-12 13:04:22 INFO  SafetynetApplication:59 - Started SafetynetApplication in 0.32 seconds (process running for 1961.215)
+2025-07-12 14:01:52 INFO  GracefulShutdown:54 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-12 14:01:52 INFO  GracefulShutdown:76 - Graceful shutdown complete
+2025-07-12 14:01:52 INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 16564 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:01:52 INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:01:52 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2025-07-12 14:01:53 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:f8911e6f-95f7-4c08-a9e2-0b3b87a7767e'
+2025-07-12 14:01:53 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2025-07-12 14:01:53 INFO  SafetynetApplication:59 - Started SafetynetApplication in 0.339 seconds (process running for 5412.352)
+2025-07-12 14:19:30 INFO  GracefulShutdown:54 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-12 14:19:30 INFO  GracefulShutdown:76 - Graceful shutdown complete
+2025-07-12 14:19:30 INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 16564 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:19:30 INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:19:30 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2025-07-12 14:19:31 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:078fed91-7873-4933-b630-88f007c5d144'
+2025-07-12 14:19:31 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2025-07-12 14:19:31 INFO  SafetynetApplication:59 - Started SafetynetApplication in 0.336 seconds (process running for 6470.278)
+2025-07-12 14:19:42 INFO  GracefulShutdown:54 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-12 14:19:42 INFO  GracefulShutdown:76 - Graceful shutdown complete
+2025-07-12 14:19:42 INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 16564 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:19:42 INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:19:42 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2025-07-12 14:19:43 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:f65acd48-1ec3-42e4-923d-14b9a54c2b68'
+2025-07-12 14:19:43 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2025-07-12 14:19:43 INFO  SafetynetApplication:59 - Started SafetynetApplication in 0.285 seconds (process running for 6482.312)
+2025-07-12 14:24:31 INFO  GracefulShutdown:54 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-12 14:24:31 INFO  GracefulShutdown:76 - Graceful shutdown complete
+2025-07-12 14:24:31 INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 16564 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:24:31 INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:24:32 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2025-07-12 14:24:32 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:81a05766-b8f8-4c16-9a15-2e09e674f645'
+2025-07-12 14:24:32 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2025-07-12 14:24:32 INFO  SafetynetApplication:59 - Started SafetynetApplication in 0.371 seconds (process running for 6771.512)
+2025-07-12 14:24:40 INFO  GracefulShutdown:54 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-12 14:24:40 INFO  GracefulShutdown:76 - Graceful shutdown complete
+2025-07-12 14:24:41 INFO  SafetynetApplication:53 - Starting SafetynetApplication using Java 17.0.12 with PID 16564 (C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:24:41 INFO  SafetynetApplication:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:24:41 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2025-07-12 14:24:41 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:5a1eb7e8-53aa-4b0b-850e-afb1f4c6edce'
+2025-07-12 14:24:41 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2025-07-12 14:24:41 INFO  SafetynetApplication:59 - Started SafetynetApplication in 0.365 seconds (process running for 6780.553)
+2025-07-12 14:39:52 DEBUG WebMvcTestContextBootstrapper:263 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [ChildAlertControllerTest]: using SpringBootContextLoader
+2025-07-12 14:39:52 DEBUG AbstractContextLoader:271 - Could not detect default resource locations for test class [com.projet5safetynet.safetynet.ChildAlertControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2025-07-12 14:39:52 INFO  AnnotationConfigContextLoaderUtils:83 - Could not detect default configuration classes for test class [com.projet5safetynet.safetynet.ChildAlertControllerTest]: ChildAlertControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-07-12 14:39:52 DEBUG WebMvcTestContextBootstrapper:432 - Using ContextCustomizerFactory implementations for test class [ChildAlertControllerTest]: [ImportsContextCustomizerFactory, ExcludeFilterContextCustomizerFactory, HttpGraphQlTesterContextCustomizerFactory, DuplicateJsonObjectContextCustomizerFactory, MockitoContextCustomizerFactory, TestRestTemplateContextCustomizerFactory, WebTestClientContextCustomizerFactory, DisableReactorResourceFactoryGlobalResourcesContextCustomizerFactory, OnFailureConditionReportContextCustomizerFactory, OverrideAutoConfigurationContextCustomizerFactory, ObservabilityContextCustomizerFactory, TypeExcludeFiltersContextCustomizerFactory, PropertyMappingContextCustomizerFactory, WebDriverContextCustomizerFactory, BeanOverrideContextCustomizerFactory, MockServerContainerContextCustomizerFactory, DynamicPropertiesContextCustomizerFactory]
+2025-07-12 14:39:52 DEBUG WebMvcTestContextBootstrapper:370 - Using ContextCustomizers for test class [ChildAlertControllerTest]: [ImportsContextCustomizer, ExcludeFilterContextCustomizer, DuplicateJsonObjectContextCustomizer, MockitoContextCustomizer, DisableReactorResourceFactoryGlobalResourcesContextCustomizerCustomizer, OnFailureConditionReportContextCustomizer, DisableAutoConfigurationContextCustomizer, DisableObservabilityContextCustomizer, TypeExcludeFiltersContextCustomizer, PropertyMappingContextCustomizer, WebDriverContextCustomizer, DynamicPropertiesContextCustomizer]
+2025-07-12 14:39:52 DEBUG ClassPathScanningCandidateComponentProvider:476 - Identified candidate component class: file [C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes\com\projet5safetynet\safetynet\SafetynetApplication.class]
+2025-07-12 14:39:52 INFO  SpringBootTestContextBootstrapper:234 - Found @SpringBootConfiguration com.projet5safetynet.safetynet.SafetynetApplication for test class com.projet5safetynet.safetynet.ChildAlertControllerTest
+2025-07-12 14:39:52 DEBUG TestContextSpringFactoriesUtils:43 - Skipping candidate TestExecutionListener [org.springframework.test.context.observation.MicrometerObservationRegistryTestExecutionListener] due to a missing dependency. Specify custom TestExecutionListener classes or make the default TestExecutionListener classes and their required dependencies available. Offending class: io.micrometer.context.ThreadLocalAccessor. MicrometerObservationRegistryTestExecutionListener requires io.micrometer:micrometer-observation:1.10.8 or higher and io.micrometer:context-propagation:1.0.3 or higher.
+2025-07-12 14:39:52 DEBUG WebMvcTestContextBootstrapper:182 - Using TestExecutionListeners for test class [ChildAlertControllerTest]: [ServletTestExecutionListener, DirtiesContextBeforeModesTestExecutionListener, ApplicationEventsTestExecutionListener, MockitoTestExecutionListener, BeanOverrideTestExecutionListener, DependencyInjectionTestExecutionListener, DirtiesContextTestExecutionListener, CommonCachesTestExecutionListener, TransactionalTestExecutionListener, SqlScriptsTestExecutionListener, EventPublishingTestExecutionListener, ResetMocksTestExecutionListener, RestDocsTestExecutionListener, MockRestServiceServerResetTestExecutionListener, MockMvcPrintOnlyOnFailureTestExecutionListener, WebDriverTestExecutionListener, MockWebServiceServerTestExecutionListener, MockitoResetTestExecutionListener]
+2025-07-12 14:39:52 DEBUG DirtiesContextBeforeModesTestExecutionListener:156 - Before test class: class [ChildAlertControllerTest], class annotated with @DirtiesContext [false] with mode [null]
+2025-07-12 14:39:52 INFO  RestartApplicationListener:74 - Restart disabled due to context in which it is running
+2025-07-12 14:39:53 INFO  ChildAlertControllerTest:53 - Starting ChildAlertControllerTest using Java 17.0.12 with PID 33408 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:39:53 INFO  ChildAlertControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:39:55 INFO  ChildAlertControllerTest:59 - Started ChildAlertControllerTest in 3.026 seconds (process running for 5.302)
+2025-07-12 14:39:55 INFO  ChildAlertController:21 - Requête reçue GET /childAlert?address=1509 3rd St
+2025-07-12 14:39:55 INFO  ChildAlertController:23 - Réponse : 1 enfant(s) trouvé(s)
+2025-07-12 14:39:56 INFO  ChildAlertService:26 - Recherche des enfants à l'adresse : Unknown address
+2025-07-12 14:39:56 INFO  ChildAlertService:32 - Nombre total de personnes trouvées à l'adresse Unknown address : 0
+2025-07-12 14:39:56 INFO  ChildAlertService:60 - Nombre total d'enfants trouvés à l'adresse Unknown address : 0
+2025-07-12 14:39:56 INFO  ChildAlertService:26 - Recherche des enfants à l'adresse : 1509 3rd St
+2025-07-12 14:39:56 INFO  ChildAlertService:32 - Nombre total de personnes trouvées à l'adresse 1509 3rd St : 1
+2025-07-12 14:39:56 INFO  ChildAlertService:60 - Nombre total d'enfants trouvés à l'adresse 1509 3rd St : 0
+2025-07-12 14:39:56 INFO  ChildAlertService:26 - Recherche des enfants à l'adresse : 1509 3rd St
+2025-07-12 14:39:56 INFO  ChildAlertService:32 - Nombre total de personnes trouvées à l'adresse 1509 3rd St : 2
+2025-07-12 14:39:56 INFO  ChildAlertService:46 - Enfant trouvé : John Doe (15 ans)
+2025-07-12 14:39:56 INFO  ChildAlertService:60 - Nombre total d'enfants trouvés à l'adresse 1509 3rd St : 1
+2025-07-12 14:39:56 INFO  CommunityEmailControllerTest:53 - Starting CommunityEmailControllerTest using Java 17.0.12 with PID 33408 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:39:56 INFO  CommunityEmailControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:39:56 INFO  CommunityEmailControllerTest:59 - Started CommunityEmailControllerTest in 0.325 seconds (process running for 6.256)
+2025-07-12 14:39:56 INFO  CommunityEmailController:22 - Requête reçue GET /communityEmail?city=Culver
+2025-07-12 14:39:56 INFO  CommunityEmailController:24 - Réponse : 2 email(s) trouvé(s)
+2025-07-12 14:39:56 INFO  CommunityEmailService:20 - Recherche des emails dans la ville : Culver
+2025-07-12 14:39:56 INFO  CommunityEmailService:26 - Nombre d'emails trouvés dans la ville Culver : 3
+2025-07-12 14:39:56 INFO  FireAlertControllerTest:53 - Starting FireAlertControllerTest using Java 17.0.12 with PID 33408 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:39:56 INFO  FireAlertControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:39:56 INFO  FireAlertControllerTest:59 - Started FireAlertControllerTest in 0.281 seconds (process running for 6.641)
+2025-07-12 14:39:56 INFO  FireAlertController:23 - Requête reçue GET /fire?address=1509 Culver St
+2025-07-12 14:39:56 INFO  FireAlertController:25 - Réponse : 2 résident(s) trouvé(s)
+2025-07-12 14:39:56 INFO  FireAlertService:26 - Recherche des résidents à l'adresse : 123 Street
+2025-07-12 14:39:56 INFO  FireAlertService:32 - Nombre de résidents trouvés à l'adresse 123 Street : 2
+2025-07-12 14:39:56 INFO  FireAlertService:45 - Résident trouvé : John Doe, âge 25
+2025-07-12 14:39:56 INFO  FireAlertService:45 - Résident trouvé : Jane Doe, âge 15
+2025-07-12 14:39:56 INFO  FireAlertService:60 - Nombre total de résidents avec dossier médical à l'adresse 123 Street : 2
+2025-07-12 14:39:56 INFO  FirestationControllerTest:53 - Starting FirestationControllerTest using Java 17.0.12 with PID 33408 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:39:56 INFO  FirestationControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:39:57 INFO  FirestationControllerTest:59 - Started FirestationControllerTest in 0.265 seconds (process running for 6.978)
+2025-07-12 14:39:57 INFO  FirestationController:72 - Requête DELETE /firestation avec address=1509 Culver St et stationNumber=3
+2025-07-12 14:39:57 WARN  FirestationController:78 - Mapping non trouvé pour suppression, adresse: 1509 Culver St
+2025-07-12 14:39:57 INFO  FirestationController:72 - Requête DELETE /firestation avec address=1509 Culver St et stationNumber=3
+2025-07-12 14:39:57 INFO  FirestationController:75 - Mapping supprimé pour l'adresse: 1509 Culver St
+2025-07-12 14:39:57 INFO  FirestationController:51 - Requête POST /firestation avec payload: Firestation(address=1509 Culver St, station=3)
+2025-07-12 14:39:57 INFO  FirestationController:53 - Mapping ajouté pour l'adresse: 1509 Culver St
+2025-07-12 14:39:57 INFO  FirestationController:59 - Requête PUT /firestation avec payload: Firestation(address=1509 Culver St, station=3)
+2025-07-12 14:39:57 WARN  FirestationController:65 - Mapping non trouvé pour l'adresse: 1509 Culver St
+2025-07-12 14:39:57 INFO  FirestationController:59 - Requête PUT /firestation avec payload: Firestation(address=1509 Culver St, station=3)
+2025-07-12 14:39:57 INFO  FirestationController:62 - Mapping mis à jour pour l'adresse: 1509 Culver St
+2025-07-12 14:39:57 INFO  FirestationController:34 - Requête reçue GET /firestation/all
+2025-07-12 14:39:57 INFO  FirestationController:36 - Réponse : 1 firestation(s) trouvée(s)
+2025-07-12 14:39:57 INFO  FirestationController:42 - Requête GET /firestation?stationNumber=3 reçue
+2025-07-12 14:39:57 INFO  FirestationController:44 - Réponse envoyée: 0 personnes, 3 adultes, 1 enfants
+2025-07-12 14:39:57 INFO  FirestationService:119 - Suppression d'une caserne avec adresse = null ou station = 1
+2025-07-12 14:39:57 INFO  FirestationService:126 - Une ou plusieurs casernes ont été supprimées.
+2025-07-12 14:39:57 INFO  FirestationService:36 - Requête de personnes couvertes par la caserne numéro : 1
+2025-07-12 14:39:57 INFO  FirestationService:47 - Adresses couvertes par la caserne 1 : [123 Street]
+2025-07-12 14:39:57 INFO  FirestationService:87 - Calcul de l'âge pour la date de naissance 01/01/2010 : 15 ans
+2025-07-12 14:39:57 INFO  FirestationService:87 - Calcul de l'âge pour la date de naissance 01/01/1980 : 45 ans
+2025-07-12 14:39:57 INFO  FirestationService:71 - Nombre d'enfants couverts : 1
+2025-07-12 14:39:57 INFO  FirestationService:72 - Nombre d'adultes couverts : 1
+2025-07-12 14:39:57 INFO  FirestationService:119 - Suppression d'une caserne avec adresse = Non Existent Address ou station = 9
+2025-07-12 14:39:57 WARN  FirestationService:128 - Aucune caserne correspondante trouvée pour suppression.
+2025-07-12 14:39:57 INFO  FirestationService:104 - Mise à jour de la caserne pour l'adresse 123 Street avec le nouveau numéro 2
+2025-07-12 14:39:57 INFO  FirestationService:110 - Caserne mise à jour de 1 à 2 pour l'adresse 123 Street
+2025-07-12 14:39:57 INFO  FirestationService:119 - Suppression d'une caserne avec adresse = 123 Street ou station = null
+2025-07-12 14:39:57 INFO  FirestationService:126 - Une ou plusieurs casernes ont été supprimées.
+2025-07-12 14:39:57 INFO  FirestationService:104 - Mise à jour de la caserne pour l'adresse Non Existent Address avec le nouveau numéro 2
+2025-07-12 14:39:57 WARN  FirestationService:114 - Aucune caserne trouvée pour l'adresse Non Existent Address
+2025-07-12 14:39:57 INFO  FirestationService:97 - Ajout d'une nouvelle caserne avec adresse 123 Street et numéro 1
+2025-07-12 14:39:57 INFO  FirestationService:100 - Caserne ajoutée. Nombre total de casernes : 1
+2025-07-12 14:39:57 INFO  FirestationService:29 - Récupération de toutes les casernes
+2025-07-12 14:39:57 INFO  FirestationService:31 - Nombre de casernes trouvées : 1
+2025-07-12 14:39:57 INFO  FloodService:30 - Début de la récupération des résidents desservis par les stations : [1]
+2025-07-12 14:39:57 INFO  FloodService:42 - Adresses desservies par les stations [1] : [1509 Culver St, 834 Binoc Ave]
+2025-07-12 14:39:57 INFO  FloodService:69 - Ajout du résident John Boyd (41 ans) à l'adresse 1509 Culver St
+2025-07-12 14:39:57 INFO  FloodService:69 - Ajout du résident Bob Smith (25 ans) à l'adresse 834 Binoc Ave
+2025-07-12 14:39:57 INFO  FloodService:77 - Fin récupération résidents par stations. Nombre d'adresses traitées : 2
+2025-07-12 14:39:57 INFO  FloodStationControllerTest:53 - Starting FloodStationControllerTest using Java 17.0.12 with PID 33408 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:39:57 INFO  FloodStationControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:39:57 INFO  FloodStationControllerTest:59 - Started FloodStationControllerTest in 0.242 seconds (process running for 7.416)
+2025-07-12 14:39:57 INFO  FloodStationController:25 - Requête reçue GET /flood/stations?stations=[1, 2]
+2025-07-12 14:39:57 INFO  FloodStationController:27 - Réponse envoyée avec 2 clés (stations)
+2025-07-12 14:39:57 INFO  MedicalRecordService:54 - Suppression du dossier médical pour John Doe
+2025-07-12 14:39:57 INFO  MedicalRecordService:58 - Dossier médical supprimé pour John Doe
+2025-07-12 14:39:57 INFO  MedicalRecordService:37 - Mise à jour du dossier médical pour Jane Doe
+2025-07-12 14:39:57 WARN  MedicalRecordService:48 - Aucun dossier médical trouvé pour Jane Doe
+2025-07-12 14:39:57 INFO  MedicalRecordService:54 - Suppression du dossier médical pour Jane Doe
+2025-07-12 14:39:57 WARN  MedicalRecordService:60 - Aucun dossier médical trouvé à supprimer pour Jane Doe
+2025-07-12 14:39:57 INFO  MedicalRecordService:29 - Ajout d'un dossier médical pour John Doe
+2025-07-12 14:39:57 INFO  MedicalRecordService:32 - Dossier ajouté. Nombre total de dossiers médicaux : 1
+2025-07-12 14:39:57 INFO  MedicalRecordService:21 - Récupération de tous les dossiers médicaux
+2025-07-12 14:39:57 INFO  MedicalRecordService:23 - Nombre de dossiers médicaux trouvés : 1
+2025-07-12 14:39:57 INFO  MedicalRecordService:37 - Mise à jour du dossier médical pour John Doe
+2025-07-12 14:39:57 INFO  MedicalRecordService:44 - Dossier médical mis à jour pour John Doe
+2025-07-12 14:39:57 INFO  PersonControllerTest:53 - Starting PersonControllerTest using Java 17.0.12 with PID 33408 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:39:57 INFO  PersonControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:39:57 INFO  PersonControllerTest:59 - Started PersonControllerTest in 0.2 seconds (process running for 7.69)
+2025-07-12 14:39:57 INFO  PersonController:40 - PUT /person - mise à jour de la personne : Person(firstName=Bob, lastName=NotExist, address=Somewhere, city=City, zip=00000, phone=000-000-0000, email=bob@none.com)
+2025-07-12 14:39:57 WARN  PersonController:46 - Personne non trouvée pour mise à jour
+2025-07-12 14:39:57 INFO  PersonController:27 - GET /person - récupération de toutes les personnes
+2025-07-12 14:39:57 INFO  PersonController:53 - DELETE /person - suppression de la personne : Bob NotExist
+2025-07-12 14:39:57 WARN  PersonController:59 - Personne non trouvée pour suppression
+2025-07-12 14:39:57 INFO  PersonController:40 - PUT /person - mise à jour de la personne : Person(firstName=Alice, lastName=Brown, address=10 Main St, city=Culver, zip=97451, phone=841-111-2222, email=alice@example.com)
+2025-07-12 14:39:57 INFO  PersonController:43 - Personne mise à jour avec succès
+2025-07-12 14:39:57 INFO  PersonController:33 - POST /person - ajout d'une personne : Person(firstName=Alice, lastName=Brown, address=10 Main St, city=Culver, zip=97451, phone=841-111-2222, email=alice@example.com)
+2025-07-12 14:39:57 INFO  PersonController:53 - DELETE /person - suppression de la personne : Alice Brown
+2025-07-12 14:39:57 INFO  PersonController:56 - Personne supprimée avec succès
+2025-07-12 14:39:58 INFO  PersonInfoLastNameControllerTest:53 - Starting PersonInfoLastNameControllerTest using Java 17.0.12 with PID 33408 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:39:58 INFO  PersonInfoLastNameControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:39:58 INFO  PersonInfoLastNameControllerTest:59 - Started PersonInfoLastNameControllerTest in 0.249 seconds (process running for 8.009)
+2025-07-12 14:39:58 INFO  PersonInfoLastNameController:23 - GET /personInfolastName - Recherche des informations pour le nom : Doe
+2025-07-12 14:39:58 INFO  PersonInfoLastNameService:25 - Recherche des personnes avec le nom de famille : Boyd
+2025-07-12 14:39:58 INFO  PersonInfoLastNameService:51 - Ajout de la personne John Boyd, 41 ans, adresse: 1509 Culver St
+2025-07-12 14:39:58 INFO  PersonInfoLastNameService:51 - Ajout de la personne Johnny Boyd, 25 ans, adresse: 834 Binoc Ave
+2025-07-12 14:39:58 INFO  PersonInfoLastNameService:58 - Fin de la recherche, nombre de personnes trouvées : 2
+2025-07-12 14:39:58 INFO  PersonService:33 - Mise à jour de la personne : Jane Doe
+2025-07-12 14:39:58 WARN  PersonService:46 - Personne non trouvée pour la mise à jour : Jane Doe
+2025-07-12 14:39:58 INFO  PersonService:51 - Suppression de la personne : Jane Doe
+2025-07-12 14:39:58 WARN  PersonService:57 - Personne non trouvée pour suppression : Jane Doe
+2025-07-12 14:39:58 INFO  PersonService:51 - Suppression de la personne : John Doe
+2025-07-12 14:39:58 INFO  PersonService:55 - Personne supprimée avec succès
+2025-07-12 14:39:58 INFO  PersonService:33 - Mise à jour de la personne : John Doe
+2025-07-12 14:39:58 INFO  PersonService:42 - Mise à jour effectuée avec succès
+2025-07-12 14:39:58 INFO  PersonService:27 - Ajout d'une nouvelle personne : John Doe
+2025-07-12 14:39:58 INFO  PersonService:22 - Récupération de toutes les personnes
+2025-07-12 14:39:58 INFO  PhoneAlertControllerTest:53 - Starting PhoneAlertControllerTest using Java 17.0.12 with PID 33408 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:39:58 INFO  PhoneAlertControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:39:58 INFO  PhoneAlertControllerTest:59 - Started PhoneAlertControllerTest in 0.206 seconds (process running for 8.276)
+2025-07-12 14:39:58 INFO  PhoneAlertController:21 - Requête reçue GET /phoneAlert?firestation=3
+2025-07-12 14:39:58 INFO  PhoneAlertController:23 - Réponse : 2 numéro(s) trouvé(s)
+2025-07-12 14:39:58 INFO  PhoneAlertService:21 - Recherche des numéros de téléphone pour la caserne numéro : 1
+2025-07-12 14:39:58 INFO  PhoneAlertService:36 - Nombre de téléphones trouvés : 0
+2025-07-12 14:39:58 INFO  PhoneAlertService:21 - Recherche des numéros de téléphone pour la caserne numéro : 1
+2025-07-12 14:39:58 INFO  PhoneAlertService:36 - Nombre de téléphones trouvés : 2
+2025-07-12 14:39:58 INFO  SafetynetApplicationTests:53 - Starting SafetynetApplicationTests using Java 17.0.12 with PID 33408 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:39:58 INFO  SafetynetApplicationTests:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:40:01 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:a6d61e4a-7fc6-4e6a-b958-435f9d97adae'
+2025-07-12 14:40:01 INFO  SafetynetApplicationTests:59 - Started SafetynetApplicationTests in 2.553 seconds (process running for 10.861)
+2025-07-12 14:41:41 DEBUG WebMvcTestContextBootstrapper:263 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [ChildAlertControllerTest]: using SpringBootContextLoader
+2025-07-12 14:41:41 DEBUG AbstractContextLoader:271 - Could not detect default resource locations for test class [com.projet5safetynet.safetynet.ChildAlertControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2025-07-12 14:41:41 INFO  AnnotationConfigContextLoaderUtils:83 - Could not detect default configuration classes for test class [com.projet5safetynet.safetynet.ChildAlertControllerTest]: ChildAlertControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-07-12 14:41:41 DEBUG WebMvcTestContextBootstrapper:432 - Using ContextCustomizerFactory implementations for test class [ChildAlertControllerTest]: [ImportsContextCustomizerFactory, ExcludeFilterContextCustomizerFactory, HttpGraphQlTesterContextCustomizerFactory, DuplicateJsonObjectContextCustomizerFactory, MockitoContextCustomizerFactory, TestRestTemplateContextCustomizerFactory, WebTestClientContextCustomizerFactory, DisableReactorResourceFactoryGlobalResourcesContextCustomizerFactory, OnFailureConditionReportContextCustomizerFactory, OverrideAutoConfigurationContextCustomizerFactory, ObservabilityContextCustomizerFactory, TypeExcludeFiltersContextCustomizerFactory, PropertyMappingContextCustomizerFactory, WebDriverContextCustomizerFactory, BeanOverrideContextCustomizerFactory, MockServerContainerContextCustomizerFactory, DynamicPropertiesContextCustomizerFactory]
+2025-07-12 14:41:41 DEBUG WebMvcTestContextBootstrapper:370 - Using ContextCustomizers for test class [ChildAlertControllerTest]: [ImportsContextCustomizer, ExcludeFilterContextCustomizer, DuplicateJsonObjectContextCustomizer, MockitoContextCustomizer, DisableReactorResourceFactoryGlobalResourcesContextCustomizerCustomizer, OnFailureConditionReportContextCustomizer, DisableAutoConfigurationContextCustomizer, DisableObservabilityContextCustomizer, TypeExcludeFiltersContextCustomizer, PropertyMappingContextCustomizer, WebDriverContextCustomizer, DynamicPropertiesContextCustomizer]
+2025-07-12 14:41:41 DEBUG ClassPathScanningCandidateComponentProvider:476 - Identified candidate component class: file [C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes\com\projet5safetynet\safetynet\SafetynetApplication.class]
+2025-07-12 14:41:41 INFO  SpringBootTestContextBootstrapper:234 - Found @SpringBootConfiguration com.projet5safetynet.safetynet.SafetynetApplication for test class com.projet5safetynet.safetynet.ChildAlertControllerTest
+2025-07-12 14:41:41 DEBUG TestContextSpringFactoriesUtils:43 - Skipping candidate TestExecutionListener [org.springframework.test.context.observation.MicrometerObservationRegistryTestExecutionListener] due to a missing dependency. Specify custom TestExecutionListener classes or make the default TestExecutionListener classes and their required dependencies available. Offending class: io.micrometer.context.ThreadLocalAccessor. MicrometerObservationRegistryTestExecutionListener requires io.micrometer:micrometer-observation:1.10.8 or higher and io.micrometer:context-propagation:1.0.3 or higher.
+2025-07-12 14:41:41 DEBUG WebMvcTestContextBootstrapper:182 - Using TestExecutionListeners for test class [ChildAlertControllerTest]: [ServletTestExecutionListener, DirtiesContextBeforeModesTestExecutionListener, ApplicationEventsTestExecutionListener, MockitoTestExecutionListener, BeanOverrideTestExecutionListener, DependencyInjectionTestExecutionListener, DirtiesContextTestExecutionListener, CommonCachesTestExecutionListener, TransactionalTestExecutionListener, SqlScriptsTestExecutionListener, EventPublishingTestExecutionListener, ResetMocksTestExecutionListener, RestDocsTestExecutionListener, MockRestServiceServerResetTestExecutionListener, MockMvcPrintOnlyOnFailureTestExecutionListener, WebDriverTestExecutionListener, MockWebServiceServerTestExecutionListener, MockitoResetTestExecutionListener]
+2025-07-12 14:41:41 DEBUG DirtiesContextBeforeModesTestExecutionListener:156 - Before test class: class [ChildAlertControllerTest], class annotated with @DirtiesContext [false] with mode [null]
+2025-07-12 14:41:41 INFO  RestartApplicationListener:74 - Restart disabled due to context in which it is running
+2025-07-12 14:41:42 INFO  ChildAlertControllerTest:53 - Starting ChildAlertControllerTest using Java 17.0.12 with PID 17312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:41:42 INFO  ChildAlertControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:41:44 INFO  ChildAlertControllerTest:59 - Started ChildAlertControllerTest in 2.761 seconds (process running for 4.663)
+2025-07-12 14:41:44 INFO  ChildAlertController:21 - Requête reçue GET /childAlert?address=1509 3rd St
+2025-07-12 14:41:44 INFO  ChildAlertController:23 - Réponse : 1 enfant(s) trouvé(s)
+2025-07-12 14:41:44 INFO  ChildAlertService:26 - Recherche des enfants à l'adresse : Unknown address
+2025-07-12 14:41:44 INFO  ChildAlertService:32 - Nombre total de personnes trouvées à l'adresse Unknown address : 0
+2025-07-12 14:41:44 INFO  ChildAlertService:60 - Nombre total d'enfants trouvés à l'adresse Unknown address : 0
+2025-07-12 14:41:44 INFO  ChildAlertService:26 - Recherche des enfants à l'adresse : 1509 3rd St
+2025-07-12 14:41:44 INFO  ChildAlertService:32 - Nombre total de personnes trouvées à l'adresse 1509 3rd St : 1
+2025-07-12 14:41:44 INFO  ChildAlertService:60 - Nombre total d'enfants trouvés à l'adresse 1509 3rd St : 0
+2025-07-12 14:41:44 INFO  ChildAlertService:26 - Recherche des enfants à l'adresse : 1509 3rd St
+2025-07-12 14:41:44 INFO  ChildAlertService:32 - Nombre total de personnes trouvées à l'adresse 1509 3rd St : 2
+2025-07-12 14:41:44 INFO  ChildAlertService:46 - Enfant trouvé : John Doe (15 ans)
+2025-07-12 14:41:44 INFO  ChildAlertService:60 - Nombre total d'enfants trouvés à l'adresse 1509 3rd St : 1
+2025-07-12 14:41:45 INFO  CommunityEmailControllerTest:53 - Starting CommunityEmailControllerTest using Java 17.0.12 with PID 17312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:41:45 INFO  CommunityEmailControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:41:45 INFO  CommunityEmailControllerTest:59 - Started CommunityEmailControllerTest in 0.322 seconds (process running for 5.524)
+2025-07-12 14:41:45 INFO  CommunityEmailController:22 - Requête reçue GET /communityEmail?city=Culver
+2025-07-12 14:41:45 INFO  CommunityEmailController:24 - Réponse : 2 email(s) trouvé(s)
+2025-07-12 14:41:45 INFO  CommunityEmailService:20 - Recherche des emails dans la ville : Culver
+2025-07-12 14:41:45 INFO  CommunityEmailService:26 - Nombre d'emails trouvés dans la ville Culver : 3
+2025-07-12 14:41:45 INFO  FireAlertControllerTest:53 - Starting FireAlertControllerTest using Java 17.0.12 with PID 17312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:41:45 INFO  FireAlertControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:41:45 INFO  FireAlertControllerTest:59 - Started FireAlertControllerTest in 0.252 seconds (process running for 5.873)
+2025-07-12 14:41:45 INFO  FireAlertController:23 - Requête reçue GET /fire?address=1509 Culver St
+2025-07-12 14:41:45 INFO  FireAlertController:25 - Réponse : 2 résident(s) trouvé(s)
+2025-07-12 14:41:45 INFO  FireAlertService:26 - Recherche des résidents à l'adresse : 123 Street
+2025-07-12 14:41:45 INFO  FireAlertService:32 - Nombre de résidents trouvés à l'adresse 123 Street : 2
+2025-07-12 14:41:45 INFO  FireAlertService:45 - Résident trouvé : John Doe, âge 25
+2025-07-12 14:41:45 INFO  FireAlertService:45 - Résident trouvé : Jane Doe, âge 15
+2025-07-12 14:41:45 INFO  FireAlertService:60 - Nombre total de résidents avec dossier médical à l'adresse 123 Street : 2
+2025-07-12 14:41:45 INFO  FirestationControllerTest:53 - Starting FirestationControllerTest using Java 17.0.12 with PID 17312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:41:45 INFO  FirestationControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:41:45 INFO  FirestationControllerTest:59 - Started FirestationControllerTest in 0.245 seconds (process running for 6.172)
+2025-07-12 14:41:45 INFO  FirestationController:72 - Requête DELETE /firestation avec address=1509 Culver St et stationNumber=3
+2025-07-12 14:41:45 WARN  FirestationController:78 - Mapping non trouvé pour suppression, adresse: 1509 Culver St
+2025-07-12 14:41:45 INFO  FirestationController:72 - Requête DELETE /firestation avec address=1509 Culver St et stationNumber=3
+2025-07-12 14:41:45 INFO  FirestationController:75 - Mapping supprimé pour l'adresse: 1509 Culver St
+2025-07-12 14:41:46 INFO  FirestationController:51 - Requête POST /firestation avec payload: Firestation(address=1509 Culver St, station=3)
+2025-07-12 14:41:46 INFO  FirestationController:53 - Mapping ajouté pour l'adresse: 1509 Culver St
+2025-07-12 14:41:46 INFO  FirestationController:59 - Requête PUT /firestation avec payload: Firestation(address=1509 Culver St, station=3)
+2025-07-12 14:41:46 WARN  FirestationController:65 - Mapping non trouvé pour l'adresse: 1509 Culver St
+2025-07-12 14:41:46 INFO  FirestationController:59 - Requête PUT /firestation avec payload: Firestation(address=1509 Culver St, station=3)
+2025-07-12 14:41:46 INFO  FirestationController:62 - Mapping mis à jour pour l'adresse: 1509 Culver St
+2025-07-12 14:41:46 INFO  FirestationController:34 - Requête reçue GET /firestation/all
+2025-07-12 14:41:46 INFO  FirestationController:36 - Réponse : 1 firestation(s) trouvée(s)
+2025-07-12 14:41:46 INFO  FirestationController:42 - Requête GET /firestation?stationNumber=3 reçue
+2025-07-12 14:41:46 INFO  FirestationController:44 - Réponse envoyée: 0 personnes, 3 adultes, 1 enfants
+2025-07-12 14:41:46 INFO  FirestationService:119 - Suppression d'une caserne avec adresse = null ou station = 1
+2025-07-12 14:41:46 INFO  FirestationService:126 - Une ou plusieurs casernes ont été supprimées.
+2025-07-12 14:41:46 INFO  FirestationService:36 - Requête de personnes couvertes par la caserne numéro : 1
+2025-07-12 14:41:46 INFO  FirestationService:47 - Adresses couvertes par la caserne 1 : [123 Street]
+2025-07-12 14:41:46 INFO  FirestationService:87 - Calcul de l'âge pour la date de naissance 01/01/2010 : 15 ans
+2025-07-12 14:41:46 INFO  FirestationService:87 - Calcul de l'âge pour la date de naissance 01/01/1980 : 45 ans
+2025-07-12 14:41:46 INFO  FirestationService:71 - Nombre d'enfants couverts : 1
+2025-07-12 14:41:46 INFO  FirestationService:72 - Nombre d'adultes couverts : 1
+2025-07-12 14:41:46 INFO  FirestationService:119 - Suppression d'une caserne avec adresse = Non Existent Address ou station = 9
+2025-07-12 14:41:46 WARN  FirestationService:128 - Aucune caserne correspondante trouvée pour suppression.
+2025-07-12 14:41:46 INFO  FirestationService:104 - Mise à jour de la caserne pour l'adresse 123 Street avec le nouveau numéro 2
+2025-07-12 14:41:46 INFO  FirestationService:110 - Caserne mise à jour de 1 à 2 pour l'adresse 123 Street
+2025-07-12 14:41:46 INFO  FirestationService:119 - Suppression d'une caserne avec adresse = 123 Street ou station = null
+2025-07-12 14:41:46 INFO  FirestationService:126 - Une ou plusieurs casernes ont été supprimées.
+2025-07-12 14:41:46 INFO  FirestationService:104 - Mise à jour de la caserne pour l'adresse Non Existent Address avec le nouveau numéro 2
+2025-07-12 14:41:46 WARN  FirestationService:114 - Aucune caserne trouvée pour l'adresse Non Existent Address
+2025-07-12 14:41:46 INFO  FirestationService:97 - Ajout d'une nouvelle caserne avec adresse 123 Street et numéro 1
+2025-07-12 14:41:46 INFO  FirestationService:100 - Caserne ajoutée. Nombre total de casernes : 1
+2025-07-12 14:41:46 INFO  FirestationService:29 - Récupération de toutes les casernes
+2025-07-12 14:41:46 INFO  FirestationService:31 - Nombre de casernes trouvées : 1
+2025-07-12 14:41:46 INFO  FloodService:30 - Début de la récupération des résidents desservis par les stations : [1]
+2025-07-12 14:41:46 INFO  FloodService:42 - Adresses desservies par les stations [1] : [1509 Culver St, 834 Binoc Ave]
+2025-07-12 14:41:46 INFO  FloodService:69 - Ajout du résident John Boyd (41 ans) à l'adresse 1509 Culver St
+2025-07-12 14:41:46 INFO  FloodService:69 - Ajout du résident Bob Smith (25 ans) à l'adresse 834 Binoc Ave
+2025-07-12 14:41:46 INFO  FloodService:77 - Fin récupération résidents par stations. Nombre d'adresses traitées : 2
+2025-07-12 14:41:46 INFO  FloodStationControllerTest:53 - Starting FloodStationControllerTest using Java 17.0.12 with PID 17312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:41:46 INFO  FloodStationControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:41:46 INFO  FloodStationControllerTest:59 - Started FloodStationControllerTest in 0.21 seconds (process running for 6.587)
+2025-07-12 14:41:46 INFO  FloodStationController:25 - Requête reçue GET /flood/stations?stations=[1, 2]
+2025-07-12 14:41:46 INFO  FloodStationController:27 - Réponse envoyée avec 2 clés (stations)
+2025-07-12 14:41:46 INFO  MedicalRecordService:54 - Suppression du dossier médical pour John Doe
+2025-07-12 14:41:46 INFO  MedicalRecordService:58 - Dossier médical supprimé pour John Doe
+2025-07-12 14:41:46 INFO  MedicalRecordService:37 - Mise à jour du dossier médical pour Jane Doe
+2025-07-12 14:41:46 WARN  MedicalRecordService:48 - Aucun dossier médical trouvé pour Jane Doe
+2025-07-12 14:41:46 INFO  MedicalRecordService:54 - Suppression du dossier médical pour Jane Doe
+2025-07-12 14:41:46 WARN  MedicalRecordService:60 - Aucun dossier médical trouvé à supprimer pour Jane Doe
+2025-07-12 14:41:46 INFO  MedicalRecordService:29 - Ajout d'un dossier médical pour John Doe
+2025-07-12 14:41:46 INFO  MedicalRecordService:32 - Dossier ajouté. Nombre total de dossiers médicaux : 1
+2025-07-12 14:41:46 INFO  MedicalRecordService:21 - Récupération de tous les dossiers médicaux
+2025-07-12 14:41:46 INFO  MedicalRecordService:23 - Nombre de dossiers médicaux trouvés : 1
+2025-07-12 14:41:46 INFO  MedicalRecordService:37 - Mise à jour du dossier médical pour John Doe
+2025-07-12 14:41:46 INFO  MedicalRecordService:44 - Dossier médical mis à jour pour John Doe
+2025-07-12 14:41:46 INFO  PersonControllerTest:53 - Starting PersonControllerTest using Java 17.0.12 with PID 17312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:41:46 INFO  PersonControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:41:46 INFO  PersonControllerTest:59 - Started PersonControllerTest in 0.204 seconds (process running for 6.862)
+2025-07-12 14:41:46 INFO  PersonController:40 - PUT /person - mise à jour de la personne : Person(firstName=Bob, lastName=NotExist, address=Somewhere, city=City, zip=00000, phone=000-000-0000, email=bob@none.com)
+2025-07-12 14:41:46 WARN  PersonController:46 - Personne non trouvée pour mise à jour
+2025-07-12 14:41:46 INFO  PersonController:27 - GET /person - récupération de toutes les personnes
+2025-07-12 14:41:46 INFO  PersonController:53 - DELETE /person - suppression de la personne : Bob NotExist
+2025-07-12 14:41:46 WARN  PersonController:59 - Personne non trouvée pour suppression
+2025-07-12 14:41:46 INFO  PersonController:40 - PUT /person - mise à jour de la personne : Person(firstName=Alice, lastName=Brown, address=10 Main St, city=Culver, zip=97451, phone=841-111-2222, email=alice@example.com)
+2025-07-12 14:41:46 INFO  PersonController:43 - Personne mise à jour avec succès
+2025-07-12 14:41:46 INFO  PersonController:33 - POST /person - ajout d'une personne : Person(firstName=Alice, lastName=Brown, address=10 Main St, city=Culver, zip=97451, phone=841-111-2222, email=alice@example.com)
+2025-07-12 14:41:46 INFO  PersonController:53 - DELETE /person - suppression de la personne : Alice Brown
+2025-07-12 14:41:46 INFO  PersonController:56 - Personne supprimée avec succès
+2025-07-12 14:41:46 INFO  PersonInfoLastNameControllerTest:53 - Starting PersonInfoLastNameControllerTest using Java 17.0.12 with PID 17312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:41:46 INFO  PersonInfoLastNameControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:41:46 INFO  PersonInfoLastNameControllerTest:59 - Started PersonInfoLastNameControllerTest in 0.251 seconds (process running for 7.178)
+2025-07-12 14:41:46 INFO  PersonInfoLastNameController:23 - GET /personInfolastName - Recherche des informations pour le nom : Doe
+2025-07-12 14:41:46 INFO  PersonInfoLastNameService:25 - Recherche des personnes avec le nom de famille : Boyd
+2025-07-12 14:41:46 INFO  PersonInfoLastNameService:51 - Ajout de la personne John Boyd, 41 ans, adresse: 1509 Culver St
+2025-07-12 14:41:46 INFO  PersonInfoLastNameService:51 - Ajout de la personne Johnny Boyd, 25 ans, adresse: 834 Binoc Ave
+2025-07-12 14:41:46 INFO  PersonInfoLastNameService:58 - Fin de la recherche, nombre de personnes trouvées : 2
+2025-07-12 14:41:46 INFO  PersonService:33 - Mise à jour de la personne : Jane Doe
+2025-07-12 14:41:46 WARN  PersonService:46 - Personne non trouvée pour la mise à jour : Jane Doe
+2025-07-12 14:41:46 INFO  PersonService:51 - Suppression de la personne : Jane Doe
+2025-07-12 14:41:46 WARN  PersonService:57 - Personne non trouvée pour suppression : Jane Doe
+2025-07-12 14:41:46 INFO  PersonService:51 - Suppression de la personne : John Doe
+2025-07-12 14:41:46 INFO  PersonService:55 - Personne supprimée avec succès
+2025-07-12 14:41:46 INFO  PersonService:33 - Mise à jour de la personne : John Doe
+2025-07-12 14:41:46 INFO  PersonService:42 - Mise à jour effectuée avec succès
+2025-07-12 14:41:46 INFO  PersonService:27 - Ajout d'une nouvelle personne : John Doe
+2025-07-12 14:41:46 INFO  PersonService:22 - Récupération de toutes les personnes
+2025-07-12 14:41:47 INFO  PhoneAlertControllerTest:53 - Starting PhoneAlertControllerTest using Java 17.0.12 with PID 17312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:41:47 INFO  PhoneAlertControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:41:47 INFO  PhoneAlertControllerTest:59 - Started PhoneAlertControllerTest in 0.194 seconds (process running for 7.433)
+2025-07-12 14:41:47 INFO  PhoneAlertController:21 - Requête reçue GET /phoneAlert?firestation=3
+2025-07-12 14:41:47 INFO  PhoneAlertController:23 - Réponse : 2 numéro(s) trouvé(s)
+2025-07-12 14:41:47 INFO  PhoneAlertService:21 - Recherche des numéros de téléphone pour la caserne numéro : 1
+2025-07-12 14:41:47 INFO  PhoneAlertService:36 - Nombre de téléphones trouvés : 0
+2025-07-12 14:41:47 INFO  PhoneAlertService:21 - Recherche des numéros de téléphone pour la caserne numéro : 1
+2025-07-12 14:41:47 INFO  PhoneAlertService:36 - Nombre de téléphones trouvés : 2
+2025-07-12 14:41:47 INFO  SafetynetApplicationTests:53 - Starting SafetynetApplicationTests using Java 17.0.12 with PID 17312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:41:47 INFO  SafetynetApplicationTests:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:41:49 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:5bc1dc30-4059-4687-9e8b-c81c1bdd92c2'
+2025-07-12 14:41:49 INFO  SafetynetApplicationTests:59 - Started SafetynetApplicationTests in 2.38 seconds (process running for 9.844)
+2025-07-12 14:45:46 DEBUG WebMvcTestContextBootstrapper:263 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [ChildAlertControllerTest]: using SpringBootContextLoader
+2025-07-12 14:45:46 DEBUG AbstractContextLoader:271 - Could not detect default resource locations for test class [com.projet5safetynet.safetynet.ChildAlertControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2025-07-12 14:45:46 INFO  AnnotationConfigContextLoaderUtils:83 - Could not detect default configuration classes for test class [com.projet5safetynet.safetynet.ChildAlertControllerTest]: ChildAlertControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-07-12 14:45:46 DEBUG WebMvcTestContextBootstrapper:432 - Using ContextCustomizerFactory implementations for test class [ChildAlertControllerTest]: [ImportsContextCustomizerFactory, ExcludeFilterContextCustomizerFactory, HttpGraphQlTesterContextCustomizerFactory, DuplicateJsonObjectContextCustomizerFactory, MockitoContextCustomizerFactory, TestRestTemplateContextCustomizerFactory, WebTestClientContextCustomizerFactory, DisableReactorResourceFactoryGlobalResourcesContextCustomizerFactory, OnFailureConditionReportContextCustomizerFactory, OverrideAutoConfigurationContextCustomizerFactory, ObservabilityContextCustomizerFactory, TypeExcludeFiltersContextCustomizerFactory, PropertyMappingContextCustomizerFactory, WebDriverContextCustomizerFactory, BeanOverrideContextCustomizerFactory, MockServerContainerContextCustomizerFactory, DynamicPropertiesContextCustomizerFactory]
+2025-07-12 14:45:46 DEBUG WebMvcTestContextBootstrapper:370 - Using ContextCustomizers for test class [ChildAlertControllerTest]: [ImportsContextCustomizer, ExcludeFilterContextCustomizer, DuplicateJsonObjectContextCustomizer, MockitoContextCustomizer, DisableReactorResourceFactoryGlobalResourcesContextCustomizerCustomizer, OnFailureConditionReportContextCustomizer, DisableAutoConfigurationContextCustomizer, DisableObservabilityContextCustomizer, TypeExcludeFiltersContextCustomizer, PropertyMappingContextCustomizer, WebDriverContextCustomizer, DynamicPropertiesContextCustomizer]
+2025-07-12 14:45:46 DEBUG ClassPathScanningCandidateComponentProvider:476 - Identified candidate component class: file [C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes\com\projet5safetynet\safetynet\SafetynetApplication.class]
+2025-07-12 14:45:46 INFO  SpringBootTestContextBootstrapper:234 - Found @SpringBootConfiguration com.projet5safetynet.safetynet.SafetynetApplication for test class com.projet5safetynet.safetynet.ChildAlertControllerTest
+2025-07-12 14:45:46 DEBUG TestContextSpringFactoriesUtils:43 - Skipping candidate TestExecutionListener [org.springframework.test.context.observation.MicrometerObservationRegistryTestExecutionListener] due to a missing dependency. Specify custom TestExecutionListener classes or make the default TestExecutionListener classes and their required dependencies available. Offending class: io.micrometer.context.ThreadLocalAccessor. MicrometerObservationRegistryTestExecutionListener requires io.micrometer:micrometer-observation:1.10.8 or higher and io.micrometer:context-propagation:1.0.3 or higher.
+2025-07-12 14:45:46 DEBUG WebMvcTestContextBootstrapper:182 - Using TestExecutionListeners for test class [ChildAlertControllerTest]: [ServletTestExecutionListener, DirtiesContextBeforeModesTestExecutionListener, ApplicationEventsTestExecutionListener, MockitoTestExecutionListener, BeanOverrideTestExecutionListener, DependencyInjectionTestExecutionListener, DirtiesContextTestExecutionListener, CommonCachesTestExecutionListener, TransactionalTestExecutionListener, SqlScriptsTestExecutionListener, EventPublishingTestExecutionListener, ResetMocksTestExecutionListener, RestDocsTestExecutionListener, MockRestServiceServerResetTestExecutionListener, MockMvcPrintOnlyOnFailureTestExecutionListener, WebDriverTestExecutionListener, MockWebServiceServerTestExecutionListener, MockitoResetTestExecutionListener]
+2025-07-12 14:45:46 DEBUG DirtiesContextBeforeModesTestExecutionListener:156 - Before test class: class [ChildAlertControllerTest], class annotated with @DirtiesContext [false] with mode [null]
+2025-07-12 14:45:46 INFO  RestartApplicationListener:74 - Restart disabled due to context in which it is running
+2025-07-12 14:45:46 INFO  ChildAlertControllerTest:53 - Starting ChildAlertControllerTest using Java 17.0.12 with PID 20152 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:45:46 INFO  ChildAlertControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:45:49 INFO  ChildAlertControllerTest:59 - Started ChildAlertControllerTest in 2.742 seconds (process running for 4.693)
+2025-07-12 14:45:49 INFO  ChildAlertController:21 - Requête reçue GET /childAlert?address=1509 3rd St
+2025-07-12 14:45:49 INFO  ChildAlertController:23 - Réponse : 1 enfant(s) trouvé(s)
+2025-07-12 14:45:49 INFO  ChildAlertService:26 - Recherche des enfants à l'adresse : Unknown address
+2025-07-12 14:45:49 INFO  ChildAlertService:32 - Nombre total de personnes trouvées à l'adresse Unknown address : 0
+2025-07-12 14:45:49 INFO  ChildAlertService:60 - Nombre total d'enfants trouvés à l'adresse Unknown address : 0
+2025-07-12 14:45:49 INFO  ChildAlertService:26 - Recherche des enfants à l'adresse : 1509 3rd St
+2025-07-12 14:45:49 INFO  ChildAlertService:32 - Nombre total de personnes trouvées à l'adresse 1509 3rd St : 1
+2025-07-12 14:45:49 INFO  ChildAlertService:60 - Nombre total d'enfants trouvés à l'adresse 1509 3rd St : 0
+2025-07-12 14:45:49 INFO  ChildAlertService:26 - Recherche des enfants à l'adresse : 1509 3rd St
+2025-07-12 14:45:49 INFO  ChildAlertService:32 - Nombre total de personnes trouvées à l'adresse 1509 3rd St : 2
+2025-07-12 14:45:49 INFO  ChildAlertService:46 - Enfant trouvé : John Doe (15 ans)
+2025-07-12 14:45:49 INFO  ChildAlertService:60 - Nombre total d'enfants trouvés à l'adresse 1509 3rd St : 1
+2025-07-12 14:45:49 INFO  CommunityEmailControllerTest:53 - Starting CommunityEmailControllerTest using Java 17.0.12 with PID 20152 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:45:49 INFO  CommunityEmailControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:45:49 INFO  CommunityEmailControllerTest:59 - Started CommunityEmailControllerTest in 0.283 seconds (process running for 5.515)
+2025-07-12 14:45:49 INFO  CommunityEmailController:22 - Requête reçue GET /communityEmail?city=Culver
+2025-07-12 14:45:49 INFO  CommunityEmailController:24 - Réponse : 2 email(s) trouvé(s)
+2025-07-12 14:45:49 INFO  CommunityEmailService:20 - Recherche des emails dans la ville : Culver
+2025-07-12 14:45:49 INFO  CommunityEmailService:26 - Nombre d'emails trouvés dans la ville Culver : 3
+2025-07-12 14:45:49 INFO  FireAlertControllerTest:53 - Starting FireAlertControllerTest using Java 17.0.12 with PID 20152 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:45:49 INFO  FireAlertControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:45:50 INFO  FireAlertControllerTest:59 - Started FireAlertControllerTest in 0.266 seconds (process running for 5.88)
+2025-07-12 14:45:50 INFO  FireAlertController:23 - Requête reçue GET /fire?address=1509 Culver St
+2025-07-12 14:45:50 INFO  FireAlertController:25 - Réponse : 2 résident(s) trouvé(s)
+2025-07-12 14:45:50 INFO  FireAlertService:26 - Recherche des résidents à l'adresse : 123 Street
+2025-07-12 14:45:50 INFO  FireAlertService:32 - Nombre de résidents trouvés à l'adresse 123 Street : 2
+2025-07-12 14:45:50 INFO  FireAlertService:45 - Résident trouvé : John Doe, âge 25
+2025-07-12 14:45:50 INFO  FireAlertService:45 - Résident trouvé : Jane Doe, âge 15
+2025-07-12 14:45:50 INFO  FireAlertService:60 - Nombre total de résidents avec dossier médical à l'adresse 123 Street : 2
+2025-07-12 14:45:50 INFO  FirestationControllerTest:53 - Starting FirestationControllerTest using Java 17.0.12 with PID 20152 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:45:50 INFO  FirestationControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:45:50 INFO  FirestationControllerTest:59 - Started FirestationControllerTest in 0.241 seconds (process running for 6.191)
+2025-07-12 14:45:50 INFO  FirestationController:72 - Requête DELETE /firestation avec address=1509 Culver St et stationNumber=3
+2025-07-12 14:45:50 WARN  FirestationController:78 - Mapping non trouvé pour suppression, adresse: 1509 Culver St
+2025-07-12 14:45:50 INFO  FirestationController:72 - Requête DELETE /firestation avec address=1509 Culver St et stationNumber=3
+2025-07-12 14:45:50 INFO  FirestationController:75 - Mapping supprimé pour l'adresse: 1509 Culver St
+2025-07-12 14:45:50 INFO  FirestationController:51 - Requête POST /firestation avec payload: Firestation(address=1509 Culver St, station=3)
+2025-07-12 14:45:50 INFO  FirestationController:53 - Mapping ajouté pour l'adresse: 1509 Culver St
+2025-07-12 14:45:50 INFO  FirestationController:59 - Requête PUT /firestation avec payload: Firestation(address=1509 Culver St, station=3)
+2025-07-12 14:45:50 WARN  FirestationController:65 - Mapping non trouvé pour l'adresse: 1509 Culver St
+2025-07-12 14:45:50 INFO  FirestationController:59 - Requête PUT /firestation avec payload: Firestation(address=1509 Culver St, station=3)
+2025-07-12 14:45:50 INFO  FirestationController:62 - Mapping mis à jour pour l'adresse: 1509 Culver St
+2025-07-12 14:45:50 INFO  FirestationController:34 - Requête reçue GET /firestation/all
+2025-07-12 14:45:50 INFO  FirestationController:36 - Réponse : 1 firestation(s) trouvée(s)
+2025-07-12 14:45:50 INFO  FirestationController:42 - Requête GET /firestation?stationNumber=3 reçue
+2025-07-12 14:45:50 INFO  FirestationController:44 - Réponse envoyée: 0 personnes, 3 adultes, 1 enfants
+2025-07-12 14:45:50 INFO  FirestationService:119 - Suppression d'une caserne avec adresse = null ou station = 1
+2025-07-12 14:45:50 INFO  FirestationService:126 - Une ou plusieurs casernes ont été supprimées.
+2025-07-12 14:45:50 INFO  FirestationService:36 - Requête de personnes couvertes par la caserne numéro : 1
+2025-07-12 14:45:50 INFO  FirestationService:47 - Adresses couvertes par la caserne 1 : [123 Street]
+2025-07-12 14:45:50 INFO  FirestationService:87 - Calcul de l'âge pour la date de naissance 01/01/2010 : 15 ans
+2025-07-12 14:45:50 INFO  FirestationService:87 - Calcul de l'âge pour la date de naissance 01/01/1980 : 45 ans
+2025-07-12 14:45:50 INFO  FirestationService:71 - Nombre d'enfants couverts : 1
+2025-07-12 14:45:50 INFO  FirestationService:72 - Nombre d'adultes couverts : 1
+2025-07-12 14:45:50 INFO  FirestationService:119 - Suppression d'une caserne avec adresse = Non Existent Address ou station = 9
+2025-07-12 14:45:50 WARN  FirestationService:128 - Aucune caserne correspondante trouvée pour suppression.
+2025-07-12 14:45:50 INFO  FirestationService:104 - Mise à jour de la caserne pour l'adresse 123 Street avec le nouveau numéro 2
+2025-07-12 14:45:50 INFO  FirestationService:110 - Caserne mise à jour de 1 à 2 pour l'adresse 123 Street
+2025-07-12 14:45:50 INFO  FirestationService:119 - Suppression d'une caserne avec adresse = 123 Street ou station = null
+2025-07-12 14:45:50 INFO  FirestationService:126 - Une ou plusieurs casernes ont été supprimées.
+2025-07-12 14:45:50 INFO  FirestationService:104 - Mise à jour de la caserne pour l'adresse Non Existent Address avec le nouveau numéro 2
+2025-07-12 14:45:50 WARN  FirestationService:114 - Aucune caserne trouvée pour l'adresse Non Existent Address
+2025-07-12 14:45:50 INFO  FirestationService:97 - Ajout d'une nouvelle caserne avec adresse 123 Street et numéro 1
+2025-07-12 14:45:50 INFO  FirestationService:100 - Caserne ajoutée. Nombre total de casernes : 1
+2025-07-12 14:45:50 INFO  FirestationService:29 - Récupération de toutes les casernes
+2025-07-12 14:45:50 INFO  FirestationService:31 - Nombre de casernes trouvées : 1
+2025-07-12 14:45:50 INFO  FloodService:30 - Début de la récupération des résidents desservis par les stations : [1]
+2025-07-12 14:45:50 INFO  FloodService:42 - Adresses desservies par les stations [1] : [1509 Culver St, 834 Binoc Ave]
+2025-07-12 14:45:50 INFO  FloodService:69 - Ajout du résident John Boyd (41 ans) à l'adresse 1509 Culver St
+2025-07-12 14:45:50 INFO  FloodService:69 - Ajout du résident Bob Smith (25 ans) à l'adresse 834 Binoc Ave
+2025-07-12 14:45:50 INFO  FloodService:77 - Fin récupération résidents par stations. Nombre d'adresses traitées : 2
+2025-07-12 14:45:50 INFO  FloodStationControllerTest:53 - Starting FloodStationControllerTest using Java 17.0.12 with PID 20152 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:45:50 INFO  FloodStationControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:45:50 INFO  FloodStationControllerTest:59 - Started FloodStationControllerTest in 0.205 seconds (process running for 6.594)
+2025-07-12 14:45:50 INFO  FloodStationController:25 - Requête reçue GET /flood/stations?stations=[1, 2]
+2025-07-12 14:45:50 INFO  FloodStationController:27 - Réponse envoyée avec 2 clés (stations)
+2025-07-12 14:45:50 INFO  MedicalRecordService:54 - Suppression du dossier médical pour John Doe
+2025-07-12 14:45:50 INFO  MedicalRecordService:58 - Dossier médical supprimé pour John Doe
+2025-07-12 14:45:50 INFO  MedicalRecordService:37 - Mise à jour du dossier médical pour Jane Doe
+2025-07-12 14:45:50 WARN  MedicalRecordService:48 - Aucun dossier médical trouvé pour Jane Doe
+2025-07-12 14:45:50 INFO  MedicalRecordService:54 - Suppression du dossier médical pour Jane Doe
+2025-07-12 14:45:50 WARN  MedicalRecordService:60 - Aucun dossier médical trouvé à supprimer pour Jane Doe
+2025-07-12 14:45:50 INFO  MedicalRecordService:29 - Ajout d'un dossier médical pour John Doe
+2025-07-12 14:45:50 INFO  MedicalRecordService:32 - Dossier ajouté. Nombre total de dossiers médicaux : 1
+2025-07-12 14:45:50 INFO  MedicalRecordService:21 - Récupération de tous les dossiers médicaux
+2025-07-12 14:45:50 INFO  MedicalRecordService:23 - Nombre de dossiers médicaux trouvés : 1
+2025-07-12 14:45:50 INFO  MedicalRecordService:37 - Mise à jour du dossier médical pour John Doe
+2025-07-12 14:45:51 INFO  MedicalRecordService:44 - Dossier médical mis à jour pour John Doe
+2025-07-12 14:45:51 INFO  PersonControllerTest:53 - Starting PersonControllerTest using Java 17.0.12 with PID 20152 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:45:51 INFO  PersonControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:45:51 INFO  PersonControllerTest:59 - Started PersonControllerTest in 0.205 seconds (process running for 6.876)
+2025-07-12 14:45:51 INFO  PersonController:40 - PUT /person - mise à jour de la personne : Person(firstName=Bob, lastName=NotExist, address=Somewhere, city=City, zip=00000, phone=000-000-0000, email=bob@none.com)
+2025-07-12 14:45:51 WARN  PersonController:46 - Personne non trouvée pour mise à jour
+2025-07-12 14:45:51 INFO  PersonController:27 - GET /person - récupération de toutes les personnes
+2025-07-12 14:45:51 INFO  PersonController:53 - DELETE /person - suppression de la personne : Bob NotExist
+2025-07-12 14:45:51 WARN  PersonController:59 - Personne non trouvée pour suppression
+2025-07-12 14:45:51 INFO  PersonController:40 - PUT /person - mise à jour de la personne : Person(firstName=Alice, lastName=Brown, address=10 Main St, city=Culver, zip=97451, phone=841-111-2222, email=alice@example.com)
+2025-07-12 14:45:51 INFO  PersonController:43 - Personne mise à jour avec succès
+2025-07-12 14:45:51 INFO  PersonController:33 - POST /person - ajout d'une personne : Person(firstName=Alice, lastName=Brown, address=10 Main St, city=Culver, zip=97451, phone=841-111-2222, email=alice@example.com)
+2025-07-12 14:45:51 INFO  PersonController:53 - DELETE /person - suppression de la personne : Alice Brown
+2025-07-12 14:45:51 INFO  PersonController:56 - Personne supprimée avec succès
+2025-07-12 14:45:51 INFO  PersonInfoLastNameControllerTest:53 - Starting PersonInfoLastNameControllerTest using Java 17.0.12 with PID 20152 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:45:51 INFO  PersonInfoLastNameControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:45:51 INFO  PersonInfoLastNameControllerTest:59 - Started PersonInfoLastNameControllerTest in 0.191 seconds (process running for 7.144)
+2025-07-12 14:45:51 INFO  PersonInfoLastNameController:23 - GET /personInfolastName - Recherche des informations pour le nom : Doe
+2025-07-12 14:45:51 INFO  PersonInfoLastNameService:25 - Recherche des personnes avec le nom de famille : Boyd
+2025-07-12 14:45:51 INFO  PersonInfoLastNameService:51 - Ajout de la personne John Boyd, 41 ans, adresse: 1509 Culver St
+2025-07-12 14:45:51 INFO  PersonInfoLastNameService:51 - Ajout de la personne Johnny Boyd, 25 ans, adresse: 834 Binoc Ave
+2025-07-12 14:45:51 INFO  PersonInfoLastNameService:58 - Fin de la recherche, nombre de personnes trouvées : 2
+2025-07-12 14:45:51 INFO  PersonService:33 - Mise à jour de la personne : Jane Doe
+2025-07-12 14:45:51 WARN  PersonService:46 - Personne non trouvée pour la mise à jour : Jane Doe
+2025-07-12 14:45:51 INFO  PersonService:51 - Suppression de la personne : Jane Doe
+2025-07-12 14:45:51 WARN  PersonService:57 - Personne non trouvée pour suppression : Jane Doe
+2025-07-12 14:45:51 INFO  PersonService:51 - Suppression de la personne : John Doe
+2025-07-12 14:45:51 INFO  PersonService:55 - Personne supprimée avec succès
+2025-07-12 14:45:51 INFO  PersonService:33 - Mise à jour de la personne : John Doe
+2025-07-12 14:45:51 INFO  PersonService:42 - Mise à jour effectuée avec succès
+2025-07-12 14:45:51 INFO  PersonService:27 - Ajout d'une nouvelle personne : John Doe
+2025-07-12 14:45:51 INFO  PersonService:22 - Récupération de toutes les personnes
+2025-07-12 14:45:51 INFO  PhoneAlertControllerTest:53 - Starting PhoneAlertControllerTest using Java 17.0.12 with PID 20152 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:45:51 INFO  PhoneAlertControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:45:51 INFO  PhoneAlertControllerTest:59 - Started PhoneAlertControllerTest in 0.178 seconds (process running for 7.377)
+2025-07-12 14:45:51 INFO  PhoneAlertController:21 - Requête reçue GET /phoneAlert?firestation=3
+2025-07-12 14:45:51 INFO  PhoneAlertController:23 - Réponse : 2 numéro(s) trouvé(s)
+2025-07-12 14:45:51 INFO  PhoneAlertService:21 - Recherche des numéros de téléphone pour la caserne numéro : 1
+2025-07-12 14:45:51 INFO  PhoneAlertService:36 - Nombre de téléphones trouvés : 0
+2025-07-12 14:45:51 INFO  PhoneAlertService:21 - Recherche des numéros de téléphone pour la caserne numéro : 1
+2025-07-12 14:45:51 INFO  PhoneAlertService:36 - Nombre de téléphones trouvés : 2
+2025-07-12 14:45:51 INFO  SafetynetApplicationTests:53 - Starting SafetynetApplicationTests using Java 17.0.12 with PID 20152 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:45:51 INFO  SafetynetApplicationTests:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:45:54 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:aaf3e0bf-1c49-45bc-98e5-39c43569bbf7'
+2025-07-12 14:45:54 INFO  SafetynetApplicationTests:59 - Started SafetynetApplicationTests in 2.317 seconds (process running for 9.724)
+2025-07-12 14:48:03 DEBUG WebMvcTestContextBootstrapper:263 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [MedicalRecordControllerTest]: using SpringBootContextLoader
+2025-07-12 14:48:03 DEBUG AbstractContextLoader:271 - Could not detect default resource locations for test class [com.projet5safetynet.safetynet.MedicalRecordControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2025-07-12 14:48:03 INFO  AnnotationConfigContextLoaderUtils:83 - Could not detect default configuration classes for test class [com.projet5safetynet.safetynet.MedicalRecordControllerTest]: MedicalRecordControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-07-12 14:48:03 DEBUG WebMvcTestContextBootstrapper:432 - Using ContextCustomizerFactory implementations for test class [MedicalRecordControllerTest]: [ImportsContextCustomizerFactory, ExcludeFilterContextCustomizerFactory, HttpGraphQlTesterContextCustomizerFactory, DuplicateJsonObjectContextCustomizerFactory, MockitoContextCustomizerFactory, TestRestTemplateContextCustomizerFactory, WebTestClientContextCustomizerFactory, DisableReactorResourceFactoryGlobalResourcesContextCustomizerFactory, OnFailureConditionReportContextCustomizerFactory, OverrideAutoConfigurationContextCustomizerFactory, ObservabilityContextCustomizerFactory, TypeExcludeFiltersContextCustomizerFactory, PropertyMappingContextCustomizerFactory, WebDriverContextCustomizerFactory, BeanOverrideContextCustomizerFactory, MockServerContainerContextCustomizerFactory, DynamicPropertiesContextCustomizerFactory]
+2025-07-12 14:48:03 DEBUG WebMvcTestContextBootstrapper:370 - Using ContextCustomizers for test class [MedicalRecordControllerTest]: [ImportsContextCustomizer, ExcludeFilterContextCustomizer, DuplicateJsonObjectContextCustomizer, MockitoContextCustomizer, DisableReactorResourceFactoryGlobalResourcesContextCustomizerCustomizer, OnFailureConditionReportContextCustomizer, DisableAutoConfigurationContextCustomizer, DisableObservabilityContextCustomizer, TypeExcludeFiltersContextCustomizer, PropertyMappingContextCustomizer, WebDriverContextCustomizer, DynamicPropertiesContextCustomizer]
+2025-07-12 14:48:03 DEBUG ClassPathScanningCandidateComponentProvider:476 - Identified candidate component class: file [C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes\com\projet5safetynet\safetynet\SafetynetApplication.class]
+2025-07-12 14:48:03 INFO  SpringBootTestContextBootstrapper:234 - Found @SpringBootConfiguration com.projet5safetynet.safetynet.SafetynetApplication for test class com.projet5safetynet.safetynet.MedicalRecordControllerTest
+2025-07-12 14:48:03 DEBUG TestContextSpringFactoriesUtils:43 - Skipping candidate TestExecutionListener [org.springframework.test.context.observation.MicrometerObservationRegistryTestExecutionListener] due to a missing dependency. Specify custom TestExecutionListener classes or make the default TestExecutionListener classes and their required dependencies available. Offending class: io.micrometer.context.ThreadLocalAccessor. MicrometerObservationRegistryTestExecutionListener requires io.micrometer:micrometer-observation:1.10.8 or higher and io.micrometer:context-propagation:1.0.3 or higher.
+2025-07-12 14:48:03 DEBUG WebMvcTestContextBootstrapper:182 - Using TestExecutionListeners for test class [MedicalRecordControllerTest]: [ServletTestExecutionListener, DirtiesContextBeforeModesTestExecutionListener, ApplicationEventsTestExecutionListener, MockitoTestExecutionListener, BeanOverrideTestExecutionListener, DependencyInjectionTestExecutionListener, DirtiesContextTestExecutionListener, CommonCachesTestExecutionListener, TransactionalTestExecutionListener, SqlScriptsTestExecutionListener, EventPublishingTestExecutionListener, ResetMocksTestExecutionListener, RestDocsTestExecutionListener, MockRestServiceServerResetTestExecutionListener, MockMvcPrintOnlyOnFailureTestExecutionListener, WebDriverTestExecutionListener, MockWebServiceServerTestExecutionListener, MockitoResetTestExecutionListener]
+2025-07-12 14:48:03 DEBUG DirtiesContextBeforeModesTestExecutionListener:156 - Before test class: class [MedicalRecordControllerTest], class annotated with @DirtiesContext [false] with mode [null]
+2025-07-12 14:48:03 INFO  RestartApplicationListener:74 - Restart disabled due to context in which it is running
+2025-07-12 14:48:03 INFO  MedicalRecordControllerTest:53 - Starting MedicalRecordControllerTest using Java 17.0.12 with PID 29180 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:48:03 INFO  MedicalRecordControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:48:05 INFO  MedicalRecordControllerTest:59 - Started MedicalRecordControllerTest in 1.775 seconds (process running for 2.813)
+2025-07-12 14:48:05 INFO  MedicalRecordController:34 - RequÃªte reÃ§ue GET /medicalrecord
+2025-07-12 14:48:05 INFO  MedicalRecordController:36 - RÃ©ponse : 2 dossier(s) mÃ©dical(aux) trouvÃ©(s)
+2025-07-12 14:48:05 INFO  MedicalRecordController:42 - RequÃªte POST /medicalrecord avec record: Alice Wonderland
+2025-07-12 14:48:05 INFO  MedicalRecordController:44 - Medical record ajoutÃ© pour Alice Wonderland
+2025-07-12 14:48:35 DEBUG WebMvcTestContextBootstrapper:263 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [ChildAlertControllerTest]: using SpringBootContextLoader
+2025-07-12 14:48:35 DEBUG AbstractContextLoader:271 - Could not detect default resource locations for test class [com.projet5safetynet.safetynet.ChildAlertControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2025-07-12 14:48:35 INFO  AnnotationConfigContextLoaderUtils:83 - Could not detect default configuration classes for test class [com.projet5safetynet.safetynet.ChildAlertControllerTest]: ChildAlertControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-07-12 14:48:35 DEBUG WebMvcTestContextBootstrapper:432 - Using ContextCustomizerFactory implementations for test class [ChildAlertControllerTest]: [ImportsContextCustomizerFactory, ExcludeFilterContextCustomizerFactory, HttpGraphQlTesterContextCustomizerFactory, DuplicateJsonObjectContextCustomizerFactory, MockitoContextCustomizerFactory, TestRestTemplateContextCustomizerFactory, WebTestClientContextCustomizerFactory, DisableReactorResourceFactoryGlobalResourcesContextCustomizerFactory, OnFailureConditionReportContextCustomizerFactory, OverrideAutoConfigurationContextCustomizerFactory, ObservabilityContextCustomizerFactory, TypeExcludeFiltersContextCustomizerFactory, PropertyMappingContextCustomizerFactory, WebDriverContextCustomizerFactory, BeanOverrideContextCustomizerFactory, MockServerContainerContextCustomizerFactory, DynamicPropertiesContextCustomizerFactory]
+2025-07-12 14:48:35 DEBUG WebMvcTestContextBootstrapper:370 - Using ContextCustomizers for test class [ChildAlertControllerTest]: [ImportsContextCustomizer, ExcludeFilterContextCustomizer, DuplicateJsonObjectContextCustomizer, MockitoContextCustomizer, DisableReactorResourceFactoryGlobalResourcesContextCustomizerCustomizer, OnFailureConditionReportContextCustomizer, DisableAutoConfigurationContextCustomizer, DisableObservabilityContextCustomizer, TypeExcludeFiltersContextCustomizer, PropertyMappingContextCustomizer, WebDriverContextCustomizer, DynamicPropertiesContextCustomizer]
+2025-07-12 14:48:35 DEBUG ClassPathScanningCandidateComponentProvider:476 - Identified candidate component class: file [C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet\target\classes\com\projet5safetynet\safetynet\SafetynetApplication.class]
+2025-07-12 14:48:35 INFO  SpringBootTestContextBootstrapper:234 - Found @SpringBootConfiguration com.projet5safetynet.safetynet.SafetynetApplication for test class com.projet5safetynet.safetynet.ChildAlertControllerTest
+2025-07-12 14:48:35 DEBUG TestContextSpringFactoriesUtils:43 - Skipping candidate TestExecutionListener [org.springframework.test.context.observation.MicrometerObservationRegistryTestExecutionListener] due to a missing dependency. Specify custom TestExecutionListener classes or make the default TestExecutionListener classes and their required dependencies available. Offending class: io.micrometer.context.ThreadLocalAccessor. MicrometerObservationRegistryTestExecutionListener requires io.micrometer:micrometer-observation:1.10.8 or higher and io.micrometer:context-propagation:1.0.3 or higher.
+2025-07-12 14:48:35 DEBUG WebMvcTestContextBootstrapper:182 - Using TestExecutionListeners for test class [ChildAlertControllerTest]: [ServletTestExecutionListener, DirtiesContextBeforeModesTestExecutionListener, ApplicationEventsTestExecutionListener, MockitoTestExecutionListener, BeanOverrideTestExecutionListener, DependencyInjectionTestExecutionListener, DirtiesContextTestExecutionListener, CommonCachesTestExecutionListener, TransactionalTestExecutionListener, SqlScriptsTestExecutionListener, EventPublishingTestExecutionListener, ResetMocksTestExecutionListener, RestDocsTestExecutionListener, MockRestServiceServerResetTestExecutionListener, MockMvcPrintOnlyOnFailureTestExecutionListener, WebDriverTestExecutionListener, MockWebServiceServerTestExecutionListener, MockitoResetTestExecutionListener]
+2025-07-12 14:48:35 DEBUG DirtiesContextBeforeModesTestExecutionListener:156 - Before test class: class [ChildAlertControllerTest], class annotated with @DirtiesContext [false] with mode [null]
+2025-07-12 14:48:35 INFO  RestartApplicationListener:74 - Restart disabled due to context in which it is running
+2025-07-12 14:48:35 INFO  ChildAlertControllerTest:53 - Starting ChildAlertControllerTest using Java 17.0.12 with PID 5312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:48:35 INFO  ChildAlertControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:48:38 INFO  ChildAlertControllerTest:59 - Started ChildAlertControllerTest in 2.736 seconds (process running for 4.676)
+2025-07-12 14:48:38 INFO  ChildAlertController:21 - Requête reçue GET /childAlert?address=1509 3rd St
+2025-07-12 14:48:38 INFO  ChildAlertController:23 - Réponse : 1 enfant(s) trouvé(s)
+2025-07-12 14:48:38 INFO  ChildAlertService:26 - Recherche des enfants à l'adresse : Unknown address
+2025-07-12 14:48:38 INFO  ChildAlertService:32 - Nombre total de personnes trouvées à l'adresse Unknown address : 0
+2025-07-12 14:48:38 INFO  ChildAlertService:60 - Nombre total d'enfants trouvés à l'adresse Unknown address : 0
+2025-07-12 14:48:38 INFO  ChildAlertService:26 - Recherche des enfants à l'adresse : 1509 3rd St
+2025-07-12 14:48:38 INFO  ChildAlertService:32 - Nombre total de personnes trouvées à l'adresse 1509 3rd St : 1
+2025-07-12 14:48:38 INFO  ChildAlertService:60 - Nombre total d'enfants trouvés à l'adresse 1509 3rd St : 0
+2025-07-12 14:48:38 INFO  ChildAlertService:26 - Recherche des enfants à l'adresse : 1509 3rd St
+2025-07-12 14:48:38 INFO  ChildAlertService:32 - Nombre total de personnes trouvées à l'adresse 1509 3rd St : 2
+2025-07-12 14:48:38 INFO  ChildAlertService:46 - Enfant trouvé : John Doe (15 ans)
+2025-07-12 14:48:38 INFO  ChildAlertService:60 - Nombre total d'enfants trouvés à l'adresse 1509 3rd St : 1
+2025-07-12 14:48:38 INFO  CommunityEmailControllerTest:53 - Starting CommunityEmailControllerTest using Java 17.0.12 with PID 5312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:48:38 INFO  CommunityEmailControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:48:38 INFO  CommunityEmailControllerTest:59 - Started CommunityEmailControllerTest in 0.303 seconds (process running for 5.515)
+2025-07-12 14:48:38 INFO  CommunityEmailController:22 - Requête reçue GET /communityEmail?city=Culver
+2025-07-12 14:48:38 INFO  CommunityEmailController:24 - Réponse : 2 email(s) trouvé(s)
+2025-07-12 14:48:39 INFO  CommunityEmailService:20 - Recherche des emails dans la ville : Culver
+2025-07-12 14:48:39 INFO  CommunityEmailService:26 - Nombre d'emails trouvés dans la ville Culver : 3
+2025-07-12 14:48:39 INFO  FireAlertControllerTest:53 - Starting FireAlertControllerTest using Java 17.0.12 with PID 5312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:48:39 INFO  FireAlertControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:48:39 INFO  FireAlertControllerTest:59 - Started FireAlertControllerTest in 0.219 seconds (process running for 5.828)
+2025-07-12 14:48:39 INFO  FireAlertController:23 - Requête reçue GET /fire?address=1509 Culver St
+2025-07-12 14:48:39 INFO  FireAlertController:25 - Réponse : 2 résident(s) trouvé(s)
+2025-07-12 14:48:39 INFO  FireAlertService:26 - Recherche des résidents à l'adresse : 123 Street
+2025-07-12 14:48:39 INFO  FireAlertService:32 - Nombre de résidents trouvés à l'adresse 123 Street : 2
+2025-07-12 14:48:39 INFO  FireAlertService:45 - Résident trouvé : John Doe, âge 25
+2025-07-12 14:48:39 INFO  FireAlertService:45 - Résident trouvé : Jane Doe, âge 15
+2025-07-12 14:48:39 INFO  FireAlertService:60 - Nombre total de résidents avec dossier médical à l'adresse 123 Street : 2
+2025-07-12 14:48:39 INFO  FirestationControllerTest:53 - Starting FirestationControllerTest using Java 17.0.12 with PID 5312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:48:39 INFO  FirestationControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:48:39 INFO  FirestationControllerTest:59 - Started FirestationControllerTest in 0.259 seconds (process running for 6.139)
+2025-07-12 14:48:39 INFO  FirestationController:72 - Requête DELETE /firestation avec address=1509 Culver St et stationNumber=3
+2025-07-12 14:48:39 WARN  FirestationController:78 - Mapping non trouvé pour suppression, adresse: 1509 Culver St
+2025-07-12 14:48:39 INFO  FirestationController:72 - Requête DELETE /firestation avec address=1509 Culver St et stationNumber=3
+2025-07-12 14:48:39 INFO  FirestationController:75 - Mapping supprimé pour l'adresse: 1509 Culver St
+2025-07-12 14:48:39 INFO  FirestationController:51 - Requête POST /firestation avec payload: Firestation(address=1509 Culver St, station=3)
+2025-07-12 14:48:39 INFO  FirestationController:53 - Mapping ajouté pour l'adresse: 1509 Culver St
+2025-07-12 14:48:39 INFO  FirestationController:59 - Requête PUT /firestation avec payload: Firestation(address=1509 Culver St, station=3)
+2025-07-12 14:48:39 WARN  FirestationController:65 - Mapping non trouvé pour l'adresse: 1509 Culver St
+2025-07-12 14:48:39 INFO  FirestationController:59 - Requête PUT /firestation avec payload: Firestation(address=1509 Culver St, station=3)
+2025-07-12 14:48:39 INFO  FirestationController:62 - Mapping mis à jour pour l'adresse: 1509 Culver St
+2025-07-12 14:48:39 INFO  FirestationController:34 - Requête reçue GET /firestation/all
+2025-07-12 14:48:39 INFO  FirestationController:36 - Réponse : 1 firestation(s) trouvée(s)
+2025-07-12 14:48:39 INFO  FirestationController:42 - Requête GET /firestation?stationNumber=3 reçue
+2025-07-12 14:48:39 INFO  FirestationController:44 - Réponse envoyée: 0 personnes, 3 adultes, 1 enfants
+2025-07-12 14:48:39 INFO  FirestationService:119 - Suppression d'une caserne avec adresse = null ou station = 1
+2025-07-12 14:48:39 INFO  FirestationService:126 - Une ou plusieurs casernes ont été supprimées.
+2025-07-12 14:48:39 INFO  FirestationService:36 - Requête de personnes couvertes par la caserne numéro : 1
+2025-07-12 14:48:39 INFO  FirestationService:47 - Adresses couvertes par la caserne 1 : [123 Street]
+2025-07-12 14:48:39 INFO  FirestationService:87 - Calcul de l'âge pour la date de naissance 01/01/2010 : 15 ans
+2025-07-12 14:48:39 INFO  FirestationService:87 - Calcul de l'âge pour la date de naissance 01/01/1980 : 45 ans
+2025-07-12 14:48:39 INFO  FirestationService:71 - Nombre d'enfants couverts : 1
+2025-07-12 14:48:39 INFO  FirestationService:72 - Nombre d'adultes couverts : 1
+2025-07-12 14:48:39 INFO  FirestationService:119 - Suppression d'une caserne avec adresse = Non Existent Address ou station = 9
+2025-07-12 14:48:39 WARN  FirestationService:128 - Aucune caserne correspondante trouvée pour suppression.
+2025-07-12 14:48:39 INFO  FirestationService:104 - Mise à jour de la caserne pour l'adresse 123 Street avec le nouveau numéro 2
+2025-07-12 14:48:39 INFO  FirestationService:110 - Caserne mise à jour de 1 à 2 pour l'adresse 123 Street
+2025-07-12 14:48:39 INFO  FirestationService:119 - Suppression d'une caserne avec adresse = 123 Street ou station = null
+2025-07-12 14:48:39 INFO  FirestationService:126 - Une ou plusieurs casernes ont été supprimées.
+2025-07-12 14:48:39 INFO  FirestationService:104 - Mise à jour de la caserne pour l'adresse Non Existent Address avec le nouveau numéro 2
+2025-07-12 14:48:39 WARN  FirestationService:114 - Aucune caserne trouvée pour l'adresse Non Existent Address
+2025-07-12 14:48:39 INFO  FirestationService:97 - Ajout d'une nouvelle caserne avec adresse 123 Street et numéro 1
+2025-07-12 14:48:39 INFO  FirestationService:100 - Caserne ajoutée. Nombre total de casernes : 1
+2025-07-12 14:48:39 INFO  FirestationService:29 - Récupération de toutes les casernes
+2025-07-12 14:48:39 INFO  FirestationService:31 - Nombre de casernes trouvées : 1
+2025-07-12 14:48:39 INFO  FloodService:30 - Début de la récupération des résidents desservis par les stations : [1]
+2025-07-12 14:48:39 INFO  FloodService:42 - Adresses desservies par les stations [1] : [1509 Culver St, 834 Binoc Ave]
+2025-07-12 14:48:39 INFO  FloodService:69 - Ajout du résident John Boyd (41 ans) à l'adresse 1509 Culver St
+2025-07-12 14:48:39 INFO  FloodService:69 - Ajout du résident Bob Smith (25 ans) à l'adresse 834 Binoc Ave
+2025-07-12 14:48:39 INFO  FloodService:77 - Fin récupération résidents par stations. Nombre d'adresses traitées : 2
+2025-07-12 14:48:39 INFO  FloodStationControllerTest:53 - Starting FloodStationControllerTest using Java 17.0.12 with PID 5312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:48:39 INFO  FloodStationControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:48:39 INFO  FloodStationControllerTest:59 - Started FloodStationControllerTest in 0.205 seconds (process running for 6.527)
+2025-07-12 14:48:39 INFO  FloodStationController:25 - Requête reçue GET /flood/stations?stations=[1, 2]
+2025-07-12 14:48:39 INFO  FloodStationController:27 - Réponse envoyée avec 2 clés (stations)
+2025-07-12 14:48:40 INFO  MedicalRecordControllerTest:53 - Starting MedicalRecordControllerTest using Java 17.0.12 with PID 5312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:48:40 INFO  MedicalRecordControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:48:40 INFO  MedicalRecordControllerTest:59 - Started MedicalRecordControllerTest in 0.186 seconds (process running for 6.746)
+2025-07-12 14:48:40 INFO  MedicalRecordController:34 - Requête reçue GET /medicalrecord
+2025-07-12 14:48:40 INFO  MedicalRecordController:36 - Réponse : 2 dossier(s) médical(aux) trouvé(s)
+2025-07-12 14:48:40 INFO  MedicalRecordController:42 - Requête POST /medicalrecord avec record: Alice Wonderland
+2025-07-12 14:48:40 INFO  MedicalRecordController:44 - Medical record ajouté pour Alice Wonderland
+2025-07-12 14:48:40 INFO  MedicalRecordService:54 - Suppression du dossier médical pour John Doe
+2025-07-12 14:48:40 INFO  MedicalRecordService:58 - Dossier médical supprimé pour John Doe
+2025-07-12 14:48:40 INFO  MedicalRecordService:37 - Mise à jour du dossier médical pour Jane Doe
+2025-07-12 14:48:40 WARN  MedicalRecordService:48 - Aucun dossier médical trouvé pour Jane Doe
+2025-07-12 14:48:40 INFO  MedicalRecordService:54 - Suppression du dossier médical pour Jane Doe
+2025-07-12 14:48:40 WARN  MedicalRecordService:60 - Aucun dossier médical trouvé à supprimer pour Jane Doe
+2025-07-12 14:48:40 INFO  MedicalRecordService:29 - Ajout d'un dossier médical pour John Doe
+2025-07-12 14:48:40 INFO  MedicalRecordService:32 - Dossier ajouté. Nombre total de dossiers médicaux : 1
+2025-07-12 14:48:40 INFO  MedicalRecordService:21 - Récupération de tous les dossiers médicaux
+2025-07-12 14:48:40 INFO  MedicalRecordService:23 - Nombre de dossiers médicaux trouvés : 1
+2025-07-12 14:48:40 INFO  MedicalRecordService:37 - Mise à jour du dossier médical pour John Doe
+2025-07-12 14:48:40 INFO  MedicalRecordService:44 - Dossier médical mis à jour pour John Doe
+2025-07-12 14:48:40 INFO  PersonControllerTest:53 - Starting PersonControllerTest using Java 17.0.12 with PID 5312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:48:40 INFO  PersonControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:48:40 INFO  PersonControllerTest:59 - Started PersonControllerTest in 0.203 seconds (process running for 7.006)
+2025-07-12 14:48:40 INFO  PersonController:40 - PUT /person - mise à jour de la personne : Person(firstName=Bob, lastName=NotExist, address=Somewhere, city=City, zip=00000, phone=000-000-0000, email=bob@none.com)
+2025-07-12 14:48:40 WARN  PersonController:46 - Personne non trouvée pour mise à jour
+2025-07-12 14:48:40 INFO  PersonController:27 - GET /person - récupération de toutes les personnes
+2025-07-12 14:48:40 INFO  PersonController:53 - DELETE /person - suppression de la personne : Bob NotExist
+2025-07-12 14:48:40 WARN  PersonController:59 - Personne non trouvée pour suppression
+2025-07-12 14:48:40 INFO  PersonController:40 - PUT /person - mise à jour de la personne : Person(firstName=Alice, lastName=Brown, address=10 Main St, city=Culver, zip=97451, phone=841-111-2222, email=alice@example.com)
+2025-07-12 14:48:40 INFO  PersonController:43 - Personne mise à jour avec succès
+2025-07-12 14:48:40 INFO  PersonController:33 - POST /person - ajout d'une personne : Person(firstName=Alice, lastName=Brown, address=10 Main St, city=Culver, zip=97451, phone=841-111-2222, email=alice@example.com)
+2025-07-12 14:48:40 INFO  PersonController:53 - DELETE /person - suppression de la personne : Alice Brown
+2025-07-12 14:48:40 INFO  PersonController:56 - Personne supprimée avec succès
+2025-07-12 14:48:40 INFO  PersonInfoLastNameControllerTest:53 - Starting PersonInfoLastNameControllerTest using Java 17.0.12 with PID 5312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:48:40 INFO  PersonInfoLastNameControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:48:40 INFO  PersonInfoLastNameControllerTest:59 - Started PersonInfoLastNameControllerTest in 0.163 seconds (process running for 7.235)
+2025-07-12 14:48:40 INFO  PersonInfoLastNameController:23 - GET /personInfolastName - Recherche des informations pour le nom : Doe
+2025-07-12 14:48:40 INFO  PersonInfoLastNameService:25 - Recherche des personnes avec le nom de famille : Boyd
+2025-07-12 14:48:40 INFO  PersonInfoLastNameService:51 - Ajout de la personne John Boyd, 41 ans, adresse: 1509 Culver St
+2025-07-12 14:48:40 INFO  PersonInfoLastNameService:51 - Ajout de la personne Johnny Boyd, 25 ans, adresse: 834 Binoc Ave
+2025-07-12 14:48:40 INFO  PersonInfoLastNameService:58 - Fin de la recherche, nombre de personnes trouvées : 2
+2025-07-12 14:48:40 INFO  PersonService:33 - Mise à jour de la personne : Jane Doe
+2025-07-12 14:48:40 WARN  PersonService:46 - Personne non trouvée pour la mise à jour : Jane Doe
+2025-07-12 14:48:40 INFO  PersonService:51 - Suppression de la personne : Jane Doe
+2025-07-12 14:48:40 WARN  PersonService:57 - Personne non trouvée pour suppression : Jane Doe
+2025-07-12 14:48:40 INFO  PersonService:51 - Suppression de la personne : John Doe
+2025-07-12 14:48:40 INFO  PersonService:55 - Personne supprimée avec succès
+2025-07-12 14:48:40 INFO  PersonService:33 - Mise à jour de la personne : John Doe
+2025-07-12 14:48:40 INFO  PersonService:42 - Mise à jour effectuée avec succès
+2025-07-12 14:48:40 INFO  PersonService:27 - Ajout d'une nouvelle personne : John Doe
+2025-07-12 14:48:40 INFO  PersonService:22 - Récupération de toutes les personnes
+2025-07-12 14:48:40 INFO  PhoneAlertControllerTest:53 - Starting PhoneAlertControllerTest using Java 17.0.12 with PID 5312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:48:40 INFO  PhoneAlertControllerTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:48:40 INFO  PhoneAlertControllerTest:59 - Started PhoneAlertControllerTest in 0.213 seconds (process running for 7.497)
+2025-07-12 14:48:40 INFO  PhoneAlertController:21 - Requête reçue GET /phoneAlert?firestation=3
+2025-07-12 14:48:40 INFO  PhoneAlertController:23 - Réponse : 2 numéro(s) trouvé(s)
+2025-07-12 14:48:40 INFO  PhoneAlertService:21 - Recherche des numéros de téléphone pour la caserne numéro : 1
+2025-07-12 14:48:40 INFO  PhoneAlertService:36 - Nombre de téléphones trouvés : 0
+2025-07-12 14:48:40 INFO  PhoneAlertService:21 - Recherche des numéros de téléphone pour la caserne numéro : 1
+2025-07-12 14:48:40 INFO  PhoneAlertService:36 - Nombre de téléphones trouvés : 2
+2025-07-12 14:48:40 INFO  SafetynetApplicationTests:53 - Starting SafetynetApplicationTests using Java 17.0.12 with PID 5312 (started by Utilisateur in C:\Users\Utilisateur\Documents\openclassroom\projet 5 spring boot\v1\safetynet)
+2025-07-12 14:48:40 INFO  SafetynetApplicationTests:652 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 14:48:43 INFO  H2ConsoleAutoConfiguration:133 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:323ba936-1695-4a49-bb35-dce861b7af9e'
+2025-07-12 14:48:43 INFO  SafetynetApplicationTests:59 - Started SafetynetApplicationTests in 2.284 seconds (process running for 9.821)

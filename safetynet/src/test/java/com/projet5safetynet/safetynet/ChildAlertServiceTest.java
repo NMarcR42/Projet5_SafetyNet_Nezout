@@ -37,13 +37,11 @@ public class ChildAlertServiceTest {
         // Création d'un DataBean fictif
         dataBean = new DataBean();
 
-        // Simuler dataService.getDataBean() pour retourner ce dataBean
         when(dataService.getDataBean()).thenReturn(dataBean);
     }
 
     @Test
     public void testGetChildrenByAddress_WithChildren() {
-        // Données Person
         Person child = new Person("John", "Doe", "1509 3rd St", "Culver", "97451", "841-874-6512", "johndoe@email.com");
         Person parent = new Person("Jane", "Doe", "1509 3rd St", "Culver", "97451", "841-874-6513", "janedoe@email.com");
 
@@ -72,7 +70,6 @@ public class ChildAlertServiceTest {
 
     @Test
     public void testGetChildrenByAddress_NoChildren() {
-        // Seulement des adultes
         Person adult = new Person("Jane", "Doe", "1509 3rd St", "Culver", "97451", "841-874-6513", "janedoe@email.com");
 
         dataBean.setPersons(Collections.singletonList(adult));

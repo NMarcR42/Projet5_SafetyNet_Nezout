@@ -32,8 +32,6 @@ public class PhoneAlertServiceTest {
     @BeforeEach
     public void setUp() {
         MockitoAnnotations.openMocks(this);
-
-        // Création d'un DataBean fictif
         dataBean = new DataBean();
 
         when(dataService.getDataBean()).thenReturn(dataBean);

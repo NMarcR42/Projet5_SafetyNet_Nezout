@@ -5,7 +5,8 @@ import java.time.Period;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
-
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -15,10 +16,14 @@ import com.projet5safetynet.safetynet.model.Person;
 
 @Service
 public class PersonInfoLastNameService {
-	@Autowired
+	private static final Logger logger = LogManager.getLogger(PersonInfoLastNameService.class);
+
+    @Autowired
     private DataService dataService;
 
     public List<PersonInfoLastNameDTO> getPersonsByLastName(String lastName) {
+        logger.info("Recherche des personnes avec le nom de famille : {}", lastName);
+
         List<Person> persons = dataService.getDataBean().getPersons();
         List<MedicalRecord> records = dataService.getDataBean().getMedicalrecords();
 
@@ -43,9 +48,14 @@ public class PersonInfoLastNameService {
                         record.getMedications(),
                         record.getAllergies()
                     ));
+                    logger.info("Ajout de la personne {} {}, {} ans, adresse: {}", p.getFirstName(), p.getLastName(), age, p.getAddress());
+                } else {
+                    logger.warn("Pas de dossier médical trouvé pour {} {}", p.getFirstName(), p.getLastName());
                 }
             }
         }
+
+        logger.info("Fin de la recherche, nombre de personnes trouvées : {}", result.size());
         return result;
     }
 

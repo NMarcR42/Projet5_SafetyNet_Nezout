@@ -73,7 +73,7 @@ public class FloodServiceTest {
         assertNotNull(result);
         assertTrue(result.containsKey("1509 Culver St"));
         assertTrue(result.containsKey("834 Binoc Ave"));
-        assertFalse(result.containsKey("29 15th St")); // station 2 pas demandé
+        assertFalse(result.containsKey("29 15th St")); 
 
         List<FloodResidentDTO> residentsCulver = result.get("1509 Culver St");
         assertEquals(1, residentsCulver.size());

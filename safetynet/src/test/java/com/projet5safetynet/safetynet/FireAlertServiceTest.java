@@ -49,7 +49,7 @@ public class FireAlertServiceTest {
 
         FireResidentDTO resident1 = residents.get(0);
         assertEquals("John", resident1.getFirstName());
-        assertEquals(25, resident1.getAge(), "Age devrait être calculé (approx)"); // selon la date actuelle
+        assertEquals(25, resident1.getAge(), "Age devrait être calculé"); // selon la date actuelle
         assertEquals("123-456", resident1.getPhone());
         assertTrue(resident1.getMedications().contains("med1"));
         assertTrue(resident1.getAllergies().contains("allergy1"));
